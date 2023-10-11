@@ -1,0 +1,606 @@
+input,summary
+"Judging from previous posts this used to be a good place , but not any longer .",<triplet> place <opinion> good <sentiment> negative
+"We , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude .",<triplet> staff <opinion> rude <sentiment> negative
+The food was lousy - too sweet or too salty and the portions tiny .,<triplet> food <opinion> lousy <sentiment> negative <opinion> too sweet <sentiment> negative <opinion> too salty <sentiment> negative <triplet> portions <opinion> tiny <sentiment> negative
+Avoid this place !,<triplet> place <opinion> Avoid <sentiment> negative
+"I have eaten at Saul , many times , the food is always consistently , outrageously good .",<triplet> food <opinion> good <sentiment> positive
+Saul is the best restaurant on Smith Street and in Brooklyn .,<triplet> Saul <opinion> best <sentiment> positive
+The duck confit is always amazing and the foie gras terrine with figs was out of this world .,<triplet> foie gras terrine with figs <opinion> out of this world <sentiment> positive <triplet> duck confit <opinion> amazing <sentiment> positive
+The wine list is interesting and has many good values .,<triplet> wine list <opinion> interesting <sentiment> positive <opinion> good values <sentiment> positive
+I was very disappointed with this restaurant .,<triplet> restaurant <opinion> disappointed <sentiment> negative
+"Food was okay , nothing great .",<triplet> Food <opinion> okay <sentiment> neutral <opinion> nothing great <sentiment> neutral
+Chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family .,<triplet> Chow fun <opinion> dry <sentiment> negative <triplet> pork shu mai <opinion> greasy <sentiment> negative
+I/we will never go back to this place again .,<triplet> place <opinion> never go back <sentiment> negative
+"Service was devine , oysters where a sensual as they come , and the price ca n't be beat ! ! !",<triplet> Service <opinion> devine <sentiment> positive <triplet> oysters <opinion> sensual <sentiment> positive
+"Everything is always cooked to perfection , the service is excellent , the decor cool and understated .",<triplet> service <opinion> excellent <sentiment> positive <triplet> decor <opinion> cool <sentiment> positive <opinion> understated <sentiment> positive
+I had the duck breast special on my last visit and it was incredible .,<triplet> duck breast special <opinion> incredible <sentiment> positive
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .,<triplet> Grilled Chicken special with Edamame Puree <opinion> enjoyed <sentiment> positive
+I had never had Edamame pureed before but I thought it was innovative and tasty ( could 've used a bit more salt ) .,<triplet> Edamame pureed <opinion> innovative <sentiment> positive <opinion> tasty <sentiment> positive
+"Their sake list was extensive , but we were looking for Purple Haze , which was n't listed but made for us upon request !",<triplet> sake list <opinion> extensive <sentiment> positive
+We went around 9:30 on a Friday and it had died down a bit by then so the service was great !,<triplet> service <opinion> great <sentiment> positive
+Food awesome .,<triplet> Food <opinion> awesome <sentiment> positive
+Service friendly and attentive .,<triplet> Service <opinion> friendly <sentiment> positive <opinion> attentive <sentiment> positive
+the food is decent .,<triplet> food <opinion> decent <sentiment> neutral
+This place has got to be the best japanese restaurant in the new york area .,<triplet> place <opinion> best <sentiment> positive
+Food is great .,<triplet> Food <opinion> great <sentiment> positive
+Service is top notch .,<triplet> Service <opinion> top notch <sentiment> positive
+We took advanatage of the half price sushi deal on saturday so it was well worth it .,<triplet> half price sushi deal <opinion> worth <sentiment> positive
+"In the evening , this place attracted a well dressed , with it , NY crowd .",<triplet> crowd <opinion> attracted <sentiment> positive
+"$ 6 and there is much tasty food , all of it fresh and continually refilled .",<triplet> food <opinion> tasty <sentiment> positive <opinion> fresh <sentiment> positive <opinion> refilled <sentiment> positive
+"I am not a vegetarian but , almost all the dishes were great .",<triplet> dishes <opinion> great <sentiment> positive
+"The food here is rather good , but only if you like to wait for it .",<triplet> food <opinion> good <sentiment> positive
+"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .",<triplet> somosas <opinion> like <sentiment> positive <triplet> chai <opinion> like <sentiment> positive <triplet> chole <opinion> like <sentiment> positive <triplet> dhosas <opinion> disappointing <sentiment> negative <triplet> dhal <opinion> disappointing <sentiment> negative
+"The service varys from day to day- sometimes they 're very nice , and sometimes not .",<triplet> service <opinion> varys <sentiment> negative
+"Also , specify if you like your food spicy- its rather bland if you do n't .",<triplet> food <opinion> bland <sentiment> negative
+"The ambience is pretty and nice for conversation , so a casual lunch here would probably be best .",<triplet> ambience <opinion> pretty <sentiment> positive <opinion> nice <sentiment> positive
+The lava cake dessert was incredible and I recommend it .,<triplet> lava cake dessert <opinion> incredible <sentiment> positive <opinion> recommend <sentiment> positive
+"Once you step into Cosette , you 're miraculously in a small , off-the-beaten path Parisian bistro .",<triplet> Cosette <opinion> off-the-beaten <sentiment> positive
+"This tiny restaurant is as cozy as it gets , with that certain Parisian flair .",<triplet> restaurant <opinion> tiny <sentiment> positive <opinion> cozy <sentiment> positive
+The pizza was delivered cold and the cheese was n't even fully melted !,<triplet> pizza <opinion> cold <sentiment> negative <triplet> cheese <opinion> was n't even fully melted <sentiment> negative
+The pizza is overpriced and soggy .,<triplet> pizza <opinion> overpriced <sentiment> negative <opinion> soggy <sentiment> negative
+"Yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right .",<triplet> ingredients <opinion> fancy <sentiment> positive <triplet> pizza <opinion> good <sentiment> negative
+I think I 've had some the best meals of my life at minnow .,<triplet> meals <opinion> best <sentiment> positive
+"The seafood is amazing , there 's a good wine list , and the ever-changing menu always offers some great surprises .",<triplet> seafood <opinion> amazing <sentiment> positive <triplet> wine list <opinion> good <sentiment> positive <triplet> menu <opinion> ever-changing <sentiment> positive <opinion> great surprises <sentiment> positive
+The combination of super-fresh ingredients in the dishes are unusual but really delicious .,<triplet> ingredients <opinion> super-fresh <sentiment> positive <opinion> delicious <sentiment> positive
+Best Pastrami I ever had and great portion without being ridiculous .,<triplet> Pastrami <opinion> Best <sentiment> positive <triplet> portion <opinion> great <sentiment> positive
+My wife had the fried shrimp which are huge and loved it .,<triplet> fried shrimp <opinion> huge <sentiment> positive <opinion> loved <sentiment> positive
+"As a Japanese native , I 've lived in the Tristate area for over 8 years , but I was just so amazed at this place .",<triplet> place <opinion> amazed <sentiment> positive
+"The signs , the specials menus , food , and even all the waitstaff are ALL TOTALLY Japanese .",<triplet> signs <opinion> Japanese <sentiment> positive <triplet> specials menus <opinion> Japanese <sentiment> positive <triplet> food <opinion> Japanese <sentiment> positive <triplet> waitstaff <opinion> Japanese <sentiment> positive
+This place is worth an one-hour drive .,<triplet> place <opinion> worth <sentiment> positive
+"My wife and I always enjoy the young , not always well trained but nevertheless friendly , staff , all of whom have a story .",<triplet> staff <opinion> enjoy <sentiment> positive <opinion> young <sentiment> positive <opinion> not always well trained <sentiment> positive <opinion> friendly <sentiment> positive
+Decent wine at reasonable prices .,<triplet> wine <opinion> Decent <sentiment> positive
+This is by far my favorite place in the neighborhood .,<triplet> place <opinion> favorite <sentiment> positive
+"The service is excellent , the decor is great , and the food is delicious and comes in large portions .",<triplet> service <opinion> excellent <sentiment> positive <triplet> decor <opinion> great <sentiment> positive <triplet> food <opinion> delicious <sentiment> positive <triplet> portions <opinion> large <sentiment> positive
+I 'm partial to the Gnocchi .,<triplet> Gnocchi <opinion> partial <sentiment> positive
+This place is incredibly tiny .,<triplet> place <opinion> tiny <sentiment> negative
+The hostess is rude to the point of being offensive .,<triplet> hostess <opinion> rude <sentiment> negative <opinion> offensive <sentiment> negative
+"We have been to this place many times , and always have great food , wine , and service .",<triplet> food <opinion> great <sentiment> positive <triplet> wine <opinion> great <sentiment> positive <triplet> service <opinion> great <sentiment> positive
+"We were worried we would have trouble getting in , but somehow managed to have a short wait .",<triplet> wait <opinion> short <sentiment> positive
+As always we had a great glass of wine while we waited .,<triplet> glass of wine <opinion> great <sentiment> positive
+"When we sat , we got great and fast service .",<triplet> service <opinion> great <sentiment> positive <opinion> fast <sentiment> positive
+The people that work there are always so friendly you forget you are in New York sometimes .,<triplet> people <opinion> friendly <sentiment> positive
+Make sure you try this place as often as you can .,<triplet> place <opinion> try <sentiment> positive
+This is a fun restaurant to go to .,<triplet> restaurant <opinion> fun <sentiment> positive
+The pizza is yummy and I like the atmoshpere .,<triplet> pizza <opinion> yummy <sentiment> positive <triplet> atmoshpere <opinion> like <sentiment> positive
+But the pizza is way to expensive .,<triplet> pizza <opinion> expensive <sentiment> negative
+Sauce was watery and the food did n't have much flavor .,<triplet> Sauce <opinion> watery <sentiment> negative
+This place is great .,<triplet> place <opinion> great <sentiment> positive
+The waitress was very patient with us and the food is phenomenal !,<triplet> waitress <opinion> patient <sentiment> positive <triplet> food <opinion> phenomenal <sentiment> positive
+"Service was prompt , friendly and great .",<triplet> Service <opinion> prompt <sentiment> positive <opinion> friendly <sentiment> positive <opinion> great <sentiment> positive
+Great pizza and fantastic service .,<triplet> pizza <opinion> Great <sentiment> positive <triplet> service <opinion> fantastic <sentiment> positive
+"There was a small wait , but shorter than I expected .",<triplet> wait <opinion> small <sentiment> positive <opinion> shorter <sentiment> positive
+This is the best sushi in new york city - hands down .,<triplet> sushi <opinion> best <sentiment> positive
+"Planet Thailand has always been a hit with me , I go there usually for the sushi , which is great , the thai food is excellent too .",<triplet> sushi <opinion> great <sentiment> positive <triplet> thai food <opinion> excellent <sentiment> positive <triplet> Planet Thailand <opinion> hit <sentiment> positive
+"With the great variety on the menu , I eat here often and never get bored .",<triplet> menu <opinion> great variety <sentiment> positive
+"The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .",<triplet> atmosphere <opinion> is n't the greatest <sentiment> negative
+"Try the crunchy tuna , it is to die for .",<triplet> crunchy tuna <opinion> Try <sentiment> positive <opinion> die for <sentiment> positive
+First went here to enjoy their garden terrace .,<triplet> garden terrace <opinion> enjoy <sentiment> positive
+"The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",<triplet> food <opinion> amazing <sentiment> positive <triplet> service <opinion> prompt <sentiment> positive <opinion> helpful <sentiment> positive <opinion> not over-bearing or rushed <sentiment> positive
+"The Steak Tartare is a great bet , they fix it for you at the table .",<triplet> Steak Tartare <opinion> great <sentiment> positive
+"It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .",<triplet> vibe <opinion> good <sentiment> positive <triplet> French food <opinion> best <sentiment> positive
+"Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best , freshly baked bread !",<triplet> crust <opinion> best <sentiment> positive
+"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !",<triplet> neighborhood <opinion> great <sentiment> positive <triplet> food <opinion> great <sentiment> positive
+I 'd highly recommend it for a special occasion -- it provides and intimate setting and nice service .,<triplet> setting <opinion> intimate <sentiment> positive <triplet> service <opinion> nice <sentiment> positive
+I 'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and I all enjoy Mizu very much ... and we 're repeat customers .,<triplet> Mizu <opinion> enjoy <sentiment> positive
+"Moules were excellent , lobster ravioli was VERY salty !",<triplet> Moules <opinion> excellent <sentiment> positive <triplet> lobster ravioli <opinion> salty <sentiment> negative
+"Took my mom for Mother 's Day , and the maitre d ' was pretty rude .",<triplet> maitre d ' <opinion> rude <sentiment> negative
+Tiny dessert was $ 8.00 ... just plain overpriced for what it is .,<triplet> dessert <opinion> Tiny <sentiment> negative <opinion> overpriced <sentiment> negative
+The drinks are always well made and wine selection is fairly priced .,<triplet> drinks <opinion> well made <sentiment> positive <triplet> wine selection <opinion> fairly priced <sentiment> positive
+Try their chef 's specials -- they are to die for .,<triplet> chef 's specials <opinion> Try <sentiment> positive <opinion> die for <sentiment> positive
+Downstairs lounge is always a good attraction,<triplet> Downstairs lounge <opinion> good attraction <sentiment> positive
+"Raga 's is a romantic , cozy restaurant .",<triplet> Raga 's <opinion> romantic <sentiment> positive <opinion> cozy <sentiment> positive
+The exotic food is beautifully presented and is a delight in delicious combinations .,<triplet> exotic food <opinion> beautifully presented <sentiment> positive <opinion> delight <sentiment> positive
+The staff is incredibly helpful and attentive .,<triplet> staff <opinion> helpful <sentiment> positive <opinion> attentive <sentiment> positive
+The bar is very well stocked with interesting beers and well priced wines .,<triplet> bar <opinion> well stocked <sentiment> positive <triplet> beers <opinion> interesting <sentiment> positive <triplet> wines <opinion> well priced <sentiment> positive
+"Rude service , medicore food ... there are tons of restaurants in NY ... stay away from this one",<triplet> service <opinion> Rude <sentiment> negative <triplet> food <opinion> medicore <sentiment> neutral
+I had a great time at Jekyll and Hyde !,<triplet> Jekyll and Hyde <opinion> great time <sentiment> positive
+I loved everythig about it-especially the shows and actors .,<triplet> shows <opinion> loved <sentiment> positive <triplet> actors <opinion> loved <sentiment> positive
+Our server was very helpful and friendly .,<triplet> server <opinion> helpful <sentiment> positive <opinion> friendly <sentiment> positive
+The food was good too .,<triplet> food <opinion> good <sentiment> positive
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .,<triplet> outdoor atmosphere <opinion> wonderful <sentiment> positive
+"Great service , great food .",<triplet> service <opinion> Great <sentiment> positive <triplet> food <opinion> great <sentiment> positive
+"Two complaints -- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",<triplet> appetizer selection <opinion> complaints <sentiment> negative
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS !,<triplet> Wait staff <opinion> unappreciative <sentiment> negative <triplet> pie <opinion> best <sentiment> positive
+By far the best salad I have had in a fast food restaurant .,<triplet> salad <opinion> best <sentiment> positive
+fine dining restaurant quality .,<triplet> dining <opinion> fine <sentiment> positive
+"On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .",<triplet> restaurant <opinion> great <sentiment> positive
+"The chicken pot pie is exceptional , the cheeseburger huge and delictable , and the service professional wan warm .",<triplet> chicken pot pie <opinion> exceptional <sentiment> positive <triplet> cheeseburger <opinion> huge <sentiment> positive <opinion> delictable <sentiment> positive <triplet> service <opinion> professional <sentiment> positive <opinion> warm <sentiment> positive
+The staff is no nonsense .,<triplet> staff <opinion> no nonsense <sentiment> positive
+When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else .,<triplet> bagels <opinion> better <sentiment> positive
+Worth visiting the 1st Ave spot because it is the original store .,<triplet> 1st Ave spot <opinion> Worth visiting <sentiment> positive
+"He served me an Uni Hand roll , which I never had before , and let me tell you ... IT WAS HEAVEN !",<triplet> Uni Hand roll <opinion> HEAVEN <sentiment> positive
+The sake menu should not be overlooked !,<triplet> sake menu <opinion> overlooked <sentiment> positive
+"Service was very good - prompt , attentive and non-intrusive .",<triplet> Service <opinion> good <sentiment> positive <opinion> prompt <sentiment> positive <opinion> attentive <sentiment> positive <opinion> non-intrusive <sentiment> positive
+"Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .",<triplet> Food <opinion> good <sentiment> positive
+Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .,<triplet> Traditional French decour <opinion> pleasant <sentiment> positive <triplet> hall <opinion> noisy <sentiment> negative
+"I 've been to at Cafe Spice probably 5-8 times , it is probably still the best Indian restaurant around Union Square .",<triplet> Cafe Spice <opinion> best <sentiment> positive
+"To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .",<triplet> Service <opinion> varies <sentiment> neutral
+"Seating is always prompt , though the restaurant does fill up in the evening .",<triplet> Seating <opinion> prompt <sentiment> positive
+"Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",<triplet> Food <opinion> good <sentiment> positive <triplet> raw vegatables in side orders <opinion> wondered about freshmess <sentiment> negative
+"The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date .",<triplet> decor <opinion> vibrant <sentiment> positive <opinion> eye-pleasing <sentiment> positive <triplet> semi-private boths <opinion> eye-pleasing <sentiment> positive <opinion> great <sentiment> positive
+It 's simply the best meal in NYC .,<triplet> meal <opinion> best <sentiment> positive
+"If we were to move from the upper east side , we would genuinely miss this restaurant .",<triplet> restaurant <opinion> miss <sentiment> positive
+The restaurant is cute but not upscale .,<triplet> restaurant <opinion> cute <sentiment> neutral <opinion> not upscale <sentiment> neutral
+The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes .,<triplet> food <opinion> diamond <sentiment> positive <triplet> balance of herbs and tomatoes <opinion> perfect <sentiment> positive
+We had a great time at the Jekyll and hyde Pub last night .,<triplet> Jekyll and hyde Pub <opinion> great time <sentiment> positive
+After really enjoying ourselves at the bar we sat down at a table and had dinner .,<triplet> bar <opinion> enjoying <sentiment> positive
+The server was really cool and served us our food and drinks with a smile .,<triplet> server <opinion> cool <sentiment> positive
+The place 's decor and hidden bathrooms made for a good laugh .,<triplet> decor <opinion> good laugh <sentiment> positive <triplet> hidden bathrooms <opinion> good laugh <sentiment> positive
+I highly recommend visiting this restaurant and having dinner and drinks !,<triplet> restaurant <opinion> recommend <sentiment> positive
+"If you are the type of person who likes being scared and entertained , this is a great place to go and eat .",<triplet> place <opinion> great <sentiment> positive
+"The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if I must recommend a dish it must be the pumkin tortelini .",<triplet> beers <opinion> happy <sentiment> positive <triplet> food <opinion> delicious <sentiment> positive <triplet> pumkin tortelini <opinion> recommend <sentiment> positive
+The entertainment was great they have shows that go on through out the dinner .,<triplet> entertainment <opinion> great <sentiment> positive
+The bagel was huge .,<triplet> bagel <opinion> huge <sentiment> positive
+This was my frist time at Cafe St. Bart 's and I must say how delicious the food and the service was .,<triplet> food <opinion> delicious <sentiment> positive
+"Other guests enjoyed pizza , santa fe chopped salad and fish and chips .",<triplet> pizza <opinion> enjoyed <sentiment> positive <triplet> santa fe chopped salad <opinion> enjoyed <sentiment> positive <triplet> fish and chips <opinion> enjoyed <sentiment> positive
+"I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service .",<triplet> food <opinion> recommend <sentiment> positive <triplet> ambience <opinion> recommend <sentiment> positive <triplet> service <opinion> recommend <sentiment> positive <opinion> wonderful <sentiment> positive
+All the staff is absolutely professional ! !,<triplet> staff <opinion> professional <sentiment> positive
+This restaurant was way overhyped .,<triplet> restaurant <opinion> overhyped <sentiment> negative
+My chow fun and chow see was really bland and oily .,<triplet> chow fun and chow see <opinion> bland <sentiment> negative <opinion> oily <sentiment> negative
+The service was the only thing good about this restaurant .,<triplet> service <opinion> good <sentiment> positive
+"It 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor .",<triplet> sushi <opinion> below average <sentiment> negative <triplet> tuna <opinion> soggy <sentiment> negative <triplet> rolls <opinion> no flavor <sentiment> negative
+Their pad penang is delicious and everything else is fantastic .,<triplet> pad penang <opinion> delicious <sentiment> positive
+The price is reasonable although the service is poor .,<triplet> service <opinion> poor <sentiment> negative
+fresh restaurant was amazing ... ... .. food was delicious and of course fresh .,<triplet> fresh restaurant <opinion> fresh <sentiment> positive <opinion> amazing <sentiment> positive <triplet> food <opinion> delicious <sentiment> positive <opinion> fresh <sentiment> positive
+Hats off to the chef .,<triplet> chef <opinion> Hats off <sentiment> positive
+"the salads are delicious , both refreshing and very spicy .",<triplet> salads <opinion> delicious <sentiment> positive <opinion> refreshing <sentiment> positive <opinion> spicy <sentiment> positive
+We had Pam 's special fried fish and it was amazing .,<triplet> Pam 's special fried fish <opinion> amazing <sentiment> positive
+"Great vibe , lots of people .",<triplet> vibe <opinion> Great <sentiment> positive
+"I did n't complain , I liked the atmosphere so much .",<triplet> atmosphere <opinion> liked <sentiment> positive
+"Ambience is so cute and quaint , good for business although we were there on vacation .",<triplet> Ambience <opinion> cute <sentiment> positive <opinion> quaint <sentiment> positive <opinion> good <sentiment> positive
+Although we were looking for regular lettuce and some walnuts the salads we got were great .,<triplet> salads <opinion> great <sentiment> positive
+Ingredients are organic which is a real plus for me .,<triplet> Ingredients <opinion> organic <sentiment> positive <opinion> plus <sentiment> positive
+"This is some really good , inexpensive sushi .",<triplet> sushi <opinion> good <sentiment> positive <opinion> inexpensive <sentiment> positive
+The spicy Tuna roll is huge and probably the best that I 've had at this price range .,<triplet> spicy Tuna roll <opinion> huge <sentiment> positive <opinion> best <sentiment> positive
+The Yellowtail was particularly good as well .,<triplet> Yellowtail <opinion> good <sentiment> positive
+"I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",<triplet> all you can eat deal <opinion> limited <sentiment> negative
+Big Wong gets big Ups for a fine establishment .,<triplet> Big Wong <opinion> big Ups <sentiment> positive <opinion> fine <sentiment> positive
+"They have it all -- great price , food , and service .",<triplet> food <opinion> great <sentiment> positive <triplet> service <opinion> great <sentiment> positive
+The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .,<triplet> atmosphere <opinion> noisy <sentiment> negative <triplet> waiters <opinion> fast <sentiment> positive
+This place is always very crowded and popular .,<triplet> place <opinion> crowded <sentiment> positive <opinion> popular <sentiment> positive
+Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese ... .both very tasty .,<triplet> Caesar Salad <opinion> Enjoyed <sentiment> positive <opinion> nice <sentiment> positive <triplet> arugula and goat cheese <opinion> tasty <sentiment> positive
+We both opted for a pasta dish and they were served timely and fresh .,<triplet> pasta dish <opinion> served timely <sentiment> positive <opinion> fresh <sentiment> positive
+"We concluded with tiramisu chocolate cake , both were delicious .",<triplet> tiramisu chocolate cake <opinion> delicious <sentiment> positive
+I recently went to this restaurant with some co-workers for lunch and had an amazing time .,<triplet> restaurant <opinion> amazing time <sentiment> positive
+sometimes i get good food and ok service .,<triplet> food <opinion> good <sentiment> positive <triplet> service <opinion> ok <sentiment> neutral
+"sometimes i get bad food and bad service , sometimes i get good good and bad service .",<triplet> food <opinion> bad <sentiment> negative <triplet> service <opinion> bad <sentiment> negative <triplet> good <opinion> good <sentiment> positive
+And evaluated on those terms Pastis is simply wonderful .,<triplet> Pastis <opinion> wonderful <sentiment> positive
+Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,<triplet> raddichio <opinion> bitter <sentiment> negative
+My friend got the mushroom pizza which tasted better .,<triplet> mushroom pizza <opinion> better <sentiment> positive
+The sangria was pretty tasty and good on a hot muggy day .,<triplet> sangria <opinion> tasty <sentiment> positive <opinion> good <sentiment> positive
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .,<triplet> place <opinion> small <sentiment> neutral
+I started out with a Bombay beer which was big enough for two .,<triplet> Bombay beer <opinion> big <sentiment> positive
+"Service was slow , but the people were friendly .",<triplet> Service <opinion> slow <sentiment> negative <triplet> people <opinion> friendly <sentiment> positive
+The food is authentic Italian - delicious !,<triplet> food <opinion> authentic Italian <sentiment> positive <opinion> delicious <sentiment> positive
+"Pizza is terrific , as is homemade pasta .",<triplet> Pizza <opinion> terrific <sentiment> positive <triplet> homemade pasta <opinion> terrific <sentiment> positive
+"Ambience is delightful , service impeccable .",<triplet> Ambience <opinion> delightful <sentiment> positive <triplet> service <opinion> impeccable <sentiment> positive
+I 'm still mad that i had to pay for lousy food .,<triplet> food <opinion> lousy <sentiment> negative
+The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .,<triplet> hanger steak <opinion> rubber <sentiment> negative <triplet> tuna <opinion> flavorless <sentiment> negative
+Service was also horrible and the ambience is not that great .,<triplet> Service <opinion> horrible <sentiment> negative <triplet> ambience <opinion> not that great <sentiment> negative
+It 's a small cute restaurant .,<triplet> restaurant <opinion> small cute <sentiment> positive
+I absolutely love this place ! ! !,<triplet> place <opinion> love <sentiment> positive
+We wo n't go to this place again for a good meal .,<triplet> meal <opinion> good <sentiment> negative
+"However , I think this place is a good hang out spot .",<triplet> place <opinion> good <sentiment> positive
+THe Pizza and wine were excellent -- the service too -- but what really MADE this place was the backyard dining area .,<triplet> Pizza <opinion> excellent <sentiment> positive <triplet> wine <opinion> excellent <sentiment> positive <triplet> service <opinion> excellent <sentiment> positive
+It is one the nicest outdoor restaurants I have ever seen in NY -- I am from Italy and this place rivals the ones in my country .,<triplet> outdoor restaurants <opinion> nicest <sentiment> positive
+"First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review .",<triplet> place <opinion> *not* romantic <sentiment> negative
+"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",<triplet> tables <opinion> crammed <sentiment> negative <opinion> too close <sentiment> negative <triplet> menu <opinion> typical <sentiment> neutral <triplet> wine list <opinion> overpriced <sentiment> negative
+Slightly above average wines start at $ 70+ with only one selection listed at $ 30+ .,<triplet> wines <opinion> above average <sentiment> negative
+Service is not what one would expect from a joint in this price category .,<triplet> Service <opinion> not what one would expect <sentiment> negative
+Somehow working the italian charm with constant mille grazie does not constitute proper service .,<triplet> service <opinion> not constitute proper <sentiment> negative
+Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring .,<triplet> meals <opinion> edible <sentiment> negative <triplet> rosemary or orange flavoring <opinion> weird <sentiment> negative
+Fish was overdone .,<triplet> Fish <opinion> overdone <sentiment> negative
+"Cute place , nice wait staff but would never go there again .",<triplet> wait staff <opinion> nice <sentiment> positive <triplet> place <opinion> Cute <sentiment> negative
+Someone else recommended the dessert - we also left that .,<triplet> dessert <opinion> recommended <sentiment> negative
+"Skip this restaurant , it 's a big disappointment .",<triplet> restaurant <opinion> Skip <sentiment> negative <opinion> disappointment <sentiment> negative
+Myagi is one of my favorite restaurants in the City ; the place the negative reviews describe sound like they were somewhere else .,<triplet> Myagi <opinion> favorite <sentiment> positive
+I 've never had bad service and the fish is fresh and delicious .,<triplet> service <opinion> never had bad <sentiment> positive <triplet> fish <opinion> fresh <sentiment> positive <opinion> delicious <sentiment> positive
+Their tuna tartar appetizer is to die for .,<triplet> tuna tartar appetizer <opinion> die for <sentiment> positive
+"I come from a family of pizzeria owners , and I 'm almost ashamed to say that the pizza in Fornino 's blows my families receipies away .",<triplet> pizza <opinion> ashamed <sentiment> positive
+The place is so cool and the service is prompt and curtious .,<triplet> service <opinion> prompt <sentiment> positive <opinion> curtious <sentiment> positive <triplet> place <opinion> cool <sentiment> positive
+I highly recommend to anyone to give this place a try .,<triplet> place <opinion> recommend <sentiment> positive
+A restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .,<triplet> food <opinion> great <sentiment> positive <triplet> service <opinion> great <sentiment> positive <triplet> atmosphere <opinion> pleasant <sentiment> positive
+The dining room is quietly elegant with no music to shout over -- how refreshing !,<triplet> dining room <opinion> elegant <sentiment> positive <opinion> refreshing <sentiment> positive
+"The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs .",<triplet> service <opinion> impeccable <sentiment> positive <opinion> unobtrusive <sentiment> positive
+"Looking around , I saw a room full of New Yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .",<triplet> meal <opinion> real <sentiment> positive <triplet> restaurant <opinion> real <sentiment> positive
+The view is breathtaking the service is top notch ... the ambiance is wonderful .,<triplet> view <opinion> breathtaking <sentiment> positive <triplet> service <opinion> top notch <sentiment> positive <triplet> ambiance <opinion> wonderful <sentiment> positive
+The staff offers impeccable service .,<triplet> staff <opinion> impeccable <sentiment> positive
+My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .,<triplet> New England Chowder <opinion> good <sentiment> positive <triplet> Lobster Bisque <opinion> award <sentiment> positive
+My boyfriend had Prime Rib it was good .,<triplet> Prime Rib <opinion> good <sentiment> positive
+If you like spicy food get the chicken vindaloo .,<triplet> chicken vindaloo <opinion> get <sentiment> positive
+Go to Volare for 1st class service and terrific food .,<triplet> service <opinion> 1st class <sentiment> positive <triplet> food <opinion> terrific <sentiment> positive
+The portions are large and the servers always surprise us with a different starter .,<triplet> portions <opinion> large <sentiment> positive
+The wine list is excellent .,<triplet> wine list <opinion> excellent <sentiment> positive
+The food is amazing ... especially if you get the Chef 's tasting menu and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .,<triplet> food <opinion> amazing <sentiment> positive <triplet> selection of wines <opinion> extensive <sentiment> positive
+"The place is small and intimate and you may feel a little crowded , but the service is excellent and it 's great for friends out , a romantic date , or a special occassion .",<triplet> service <opinion> excellent <sentiment> positive <triplet> place <opinion> small <sentiment> positive <opinion> intimate <sentiment> positive <opinion> crowded <sentiment> positive
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .,<triplet> food <opinion> pricey <sentiment> negative <triplet> prixe fixe tasting menu <opinion> greatest <sentiment> positive
+"With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .",<triplet> food <opinion> decent <sentiment> neutral <opinion> not great <sentiment> neutral <triplet> lemon salad <opinion> exception <sentiment> negative
+The menu is very limited - i think we counted 4 or 5 entrees .,<triplet> menu <opinion> limited <sentiment> negative
+"We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .",<triplet> grilled branzino <opinion> difficult to eat <sentiment> negative
+"The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .",<triplet> decor <opinion> diner-ish <sentiment> neutral
+This place is so much fun .,<triplet> place <opinion> fun <sentiment> positive
+Our family never expected such incredible entertainment in a restaurant .,<triplet> entertainment <opinion> incredible <sentiment> positive
+The staff was the friendliest that have seen in New York .,<triplet> staff <opinion> friendliest <sentiment> positive
+If you want something really different than try Jekyll and Hyde .,<triplet> Jekyll and Hyde <opinion> different <sentiment> positive
+The food was pretty tradional but it was hot and good with large portions .,<triplet> food <opinion> tradional <sentiment> positive <triplet> portions <opinion> large <sentiment> positive
+The place is a lot of fun .,<triplet> place <opinion> fun <sentiment> positive
+The characters really make for an enjoyable experience .,<triplet> characters <opinion> enjoyable <sentiment> positive
+"However , I think Jeckll and Hydes t is one of those places that is fun to do once .",<triplet> Jeckll and Hydes <opinion> fun <sentiment> positive
+Service was slow had to wait to order and get food although not crowded .,<triplet> Service <opinion> slow <sentiment> negative
+Drinks way over priced .,<triplet> Drinks <opinion> over priced <sentiment> negative
+Food was good not great not worth the wait or another visit,<triplet> Food <opinion> good not great not worth the wait or another visit <sentiment> neutral
+Great pizza for lunch place .,<triplet> pizza <opinion> Great <sentiment> positive
+Service was quick .,<triplet> Service <opinion> quick <sentiment> positive
+The pizza was great .,<triplet> pizza <opinion> great <sentiment> positive
+"Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .",<triplet> fish <opinion> quality <sentiment> positive <triplet> service <opinion> great <sentiment> positive
+Delivery is fast too .,<triplet> Delivery <opinion> fast <sentiment> positive
+"Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",<triplet> service <opinion> Great friendly <sentiment> positive <triplet> seating <opinion> Fast <sentiment> positive <triplet> Delivery <opinion> Fast <sentiment> positive <triplet> sushi <opinion> Excellent <sentiment> positive
+Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .,<triplet> bagel <opinion> best <sentiment> positive
+"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",<triplet> bagels <opinion> warm <sentiment> positive <opinion> soft <sentiment> positive <opinion> crispy <sentiment> positive <opinion> enormous <sentiment> positive
+They have a huge selection of different cream cheeses and all of their salads are great .,<triplet> salads <opinion> great <sentiment> positive <triplet> cream cheeses <opinion> huge <sentiment> positive <opinion> different <sentiment> positive
+The lox is always fresh too .,<triplet> lox <opinion> fresh <sentiment> positive
+Not impressed with the food .,<triplet> food <opinion> Not impressed <sentiment> negative
+Zero ambiance to boot .,<triplet> ambiance <opinion> Zero <sentiment> negative
+I thought this place was totally overrated .,<triplet> place <opinion> overrated <sentiment> negative
+"The ambience was nice , but service was n't so great .",<triplet> ambience <opinion> nice <sentiment> positive <triplet> service <opinion> was n't so great <sentiment> negative
+This is the BEST Shabu-Shabu Restaurant in the Try-State Area .,<triplet> Shabu-Shabu Restaurant <opinion> BEST <sentiment> positive
+"The atmosphere is nothing special , but it feels like a Sushi establishment in Tokyo .",<triplet> atmosphere <opinion> nothing special <sentiment> positive
+The owner and staff are all Japanese as well and that adds to the entire ambiance .,<triplet> ambiance <opinion> adds <sentiment> positive
+Taxan delicious !,<triplet> Taxan <opinion> delicious <sentiment> positive
+Try green curry with vegetables .,<triplet> green curry with vegetables <opinion> Try <sentiment> positive
+"The quantity is also very good , you will come out satisfied .",<triplet> quantity <opinion> good <sentiment> positive <opinion> satisfied <sentiment> positive
+"The service is ok , some of the people did n't get what they asked for .",<triplet> service <opinion> ok <sentiment> neutral
+I had the best ravioli ever .,<triplet> ravioli <opinion> best <sentiment> positive
+The wine the service was very good too .,<triplet> wine <opinion> good <sentiment> positive <triplet> service <opinion> good <sentiment> positive
+This quaint and romantic trattoria is at the top of my Manhattan restaurant list .,<triplet> trattoria <opinion> quaint <sentiment> positive <opinion> romantic <sentiment> positive
+"The food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .",<triplet> food <opinion> delicious <sentiment> positive <triplet> dishes <opinion> never a disappointment <sentiment> positive <triplet> specials <opinion> delicious <sentiment> positive <opinion> never a disappointment <sentiment> positive <triplet> regular menu-fare <opinion> delicious <sentiment> positive <opinion> never a disappointment <sentiment> positive
+"Although the tables may be closely situated , the candle-light , food quality and service overcompensate .",<triplet> candle-light <opinion> overcompensate <sentiment> positive <triplet> food <opinion> overcompensate <sentiment> positive <triplet> service <opinion> overcompensate <sentiment> positive <triplet> tables <opinion> closely situated <sentiment> negative
+"If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",<triplet> marinara/arrabiatta sauce <opinion> try <sentiment> positive <opinion> delicious <sentiment> positive <triplet> mozzarella en Carozza <opinion> delicious <sentiment> positive
+Check out the secret back room .,<triplet> back room <opinion> secret <sentiment> positive
+The food was authentic .,<triplet> food <opinion> authentic <sentiment> positive
+Who has room for Cheesesticks with the best pizza in NYC !,<triplet> pizza <opinion> best <sentiment> positive
+Always great service !,<triplet> service <opinion> great <sentiment> positive
+"The food is good , I ca n't lie .",<triplet> food <opinion> good <sentiment> positive
+The hostess and the waitress were incredibly rude and did everything they could to rush us out .,<triplet> hostess <opinion> rude <sentiment> negative <triplet> waitress <opinion> rude <sentiment> negative
+Amma is nothing special .,<triplet> Amma <opinion> nothing special <sentiment> neutral
+I ate here a week ago and found most dishes average at best and too expensive .,<triplet> dishes <opinion> average <sentiment> negative <opinion> too expensive <sentiment> negative
+This place is always packed .,<triplet> place <opinion> packed <sentiment> neutral
+"Most importantly , food is excellent .",<triplet> food <opinion> excellent <sentiment> positive
+and yes Dal Bukhara is so dam good and so are all the kababs .,<triplet> kababs <opinion> good <sentiment> positive <triplet> Dal Bukhara <opinion> good <sentiment> positive
+Haru on Park S is simply disgusting .,<triplet> Haru on Park S <opinion> disgusting <sentiment> negative
+The fish was not fresh and the rice tasted old and stale .,<triplet> fish <opinion> not fresh <sentiment> negative <triplet> rice <opinion> old <sentiment> negative <opinion> stale <sentiment> negative
+"Quite frankly , this is some of the worst sushi I have ever tried .",<triplet> sushi <opinion> worst <sentiment> negative
+honestly the worst sushi my husband and i had in our entire lives .,<triplet> sushi <opinion> worst <sentiment> negative
+not sure why this restaurant would be rated that highly .,<triplet> restaurant <opinion> highly <sentiment> negative
+the all-u-can-eat sushi is definitely in very poor quality .,<triplet> all-u-can-eat sushi <opinion> poor quality <sentiment> negative
+"the only things u could really taste are the very salty soy sauce ( even its low sodium ) , the vinegar-soaked rice , and the scallion on top of the fish .",<triplet> soy sauce <opinion> salty <sentiment> negative <triplet> rice <opinion> vinegar-soaked <sentiment> negative
+the waitstaffs are nice though .,<triplet> waitstaffs <opinion> nice <sentiment> positive
+I have been to Roth 's twice and both times were very disappointing .,<triplet> Roth 's <opinion> disappointing <sentiment> negative
+"Both times I was extremely dissappointed by the service , which was boarderline rude .",<triplet> service <opinion> dissappointed <sentiment> negative <opinion> rude <sentiment> negative
+"The dinner was ok , nothing I would have again .",<triplet> dinner <opinion> ok <sentiment> negative
+"I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .",<triplet> eggs benedict <opinion> worst <sentiment> negative
+The service was attentive .,<triplet> service <opinion> attentive <sentiment> positive
+Planet Thai is great !,<triplet> Planet Thai <opinion> great <sentiment> positive
+"We love the food , drinks , and atmosphere !",<triplet> food <opinion> love <sentiment> positive <triplet> drinks <opinion> love <sentiment> positive <triplet> atmosphere <opinion> love <sentiment> positive
+"The svc can be a bit rude at times , esp if you have big group , but overall the restaurant is a must !",<triplet> svc <opinion> rude <sentiment> negative <triplet> restaurant <opinion> must <sentiment> positive
+"Try the Pad Thai , it 's fabulous and their prices are so cheap !",<triplet> Pad Thai <opinion> Try <sentiment> positive <opinion> fabulous <sentiment> positive <opinion> cheap <sentiment> positive
+"Just because it 's cheap does NOT mean the portions are small or the food is nasty , IT IS GREAT !",<triplet> portions <opinion> small <sentiment> positive <triplet> food <opinion> nasty <sentiment> positive
+"Eating in , the atmosphere saves it , but at your desk , it 's a very disappointing experience .",<triplet> atmosphere <opinion> saves <sentiment> positive
+Chennai Garden is my favorite Indian restaurant in the city .,<triplet> Chennai Garden <opinion> favorite <sentiment> positive
+They have authentic Indian at amazin prices .,<triplet> Indian <opinion> authentic <sentiment> positive
+It 's a rather cramped and busy restaurant and it closes early .,<triplet> restaurant <opinion> cramped <sentiment> negative <opinion> busy <sentiment> negative
+Patroon features a nice cigar bar and has great staff .,<triplet> cigar bar <opinion> nice <sentiment> positive <triplet> staff <opinion> great <sentiment> positive
+The food is tasty and portion sizes are appropriate .,<triplet> food <opinion> tasty <sentiment> positive <triplet> portion sizes <opinion> appropriate <sentiment> positive
+This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .,<triplet> restaurant <opinion> nice <sentiment> positive
+Not a great place for family or general dining .,<triplet> place <opinion> Not a great <sentiment> negative
+LOVE THIS PLACE .,<triplet> PLACE <opinion> LOVE <sentiment> positive
+Food is excellent .,<triplet> Food <opinion> excellent <sentiment> positive
+Fish is so very fresh .,<triplet> Fish <opinion> fresh <sentiment> positive
+Love YUKA .,<triplet> YUKA <opinion> Love <sentiment> positive
+Mermaid Inn is an overall good restaurant with really good seafood .,<triplet> seafood <opinion> good <sentiment> positive <triplet> Mermaid Inn <opinion> good <sentiment> positive
+The menu is limited but almost all of the dishes are excellent .,<triplet> menu <opinion> limited <sentiment> negative <triplet> dishes <opinion> excellent <sentiment> positive
+The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .,<triplet> lobster sandwich <opinion> good <sentiment> positive <triplet> spaghetti with Scallops and Shrimp <opinion> great <sentiment> positive
+The service is good and ambience is good for a date or group outing .,<triplet> service <opinion> good <sentiment> positive <triplet> ambience <opinion> good <sentiment> positive
+The only fallback on this restaurant is the prices .,<triplet> restaurant <opinion> fallback <sentiment> negative
+"Even though its good seafood , the prices are too high .",<triplet> seafood <opinion> good <sentiment> positive
+Truly the mark of an attentive waiter .,<triplet> waiter <opinion> attentive <sentiment> positive
+I highly recommend the restaurant based on our experience last night .,<triplet> restaurant <opinion> recommend <sentiment> positive
+We ate at this Thai place following the reviews but very unhappy with the foods .,<triplet> foods <opinion> unhappy <sentiment> negative
+"I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",<triplet> jelly fish <opinion> recommend <sentiment> positive <triplet> drunken chicken <opinion> recommend <sentiment> positive <triplet> soupy dumplings <opinion> recommend <sentiment> positive <triplet> stir fry blue crab <opinion> recommend <sentiment> positive
+The food is so cheap and the waiters are nice .,<triplet> food <opinion> cheap <sentiment> positive <triplet> waiters <opinion> nice <sentiment> positive
+Have frequented 'ino for several years and the food remains excellent .,<triplet> food <opinion> excellent <sentiment> positive
+Cheese plate is a varied delight and great bargain at $ 10 .,<triplet> Cheese plate <opinion> varied delight <sentiment> positive <opinion> great bargain <sentiment> positive
+"( The asparagus , truffle oil , parmesan bruschetta is a winner ! )","<triplet> asparagus , truffle oil , parmesan bruschetta <opinion> winner <sentiment> positive"
+Wine list is extensive without being over-priced .,<triplet> Wine list <opinion> extensive without being over-priced <sentiment> positive
+"Be sure to try the seasonal , and always delicious , specials .",<triplet> specials <opinion> try <sentiment> positive <opinion> seasonal <sentiment> positive <opinion> delicious <sentiment> positive
+I loved this place ! !,<triplet> place <opinion> loved <sentiment> positive
+"The food was very good , a great deal , and the place its self was great .",<triplet> food <opinion> good <sentiment> positive <triplet> place <opinion> great <sentiment> positive
+"The wait staff is very freindly , they make it feel like you 're eating in a freindly little european town .",<triplet> wait staff <opinion> freindly <sentiment> positive
+"I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",<triplet> people <opinion> evil <sentiment> negative <opinion> incompetent <sentiment> negative <triplet> Cafe Noir <opinion> like <sentiment> positive
+"The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",<triplet> service <opinion> terrible <sentiment> negative
+"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff , because despite the current one this is a great place .",<triplet> staff <opinion> good <sentiment> negative <triplet> Cafe Noir <opinion> great <sentiment> positive
+Pizza here is consistently good .,<triplet> Pizza <opinion> good <sentiment> positive
+Salads are a delicious way to begin the meal .,<triplet> Salads <opinion> delicious <sentiment> positive
+You should pass on the calamari .,<triplet> calamari <opinion> pass <sentiment> negative
+Decor is charming .,<triplet> Decor <opinion> charming <sentiment> positive
+What a great place .,<triplet> place <opinion> great <sentiment> positive
+I would definitely recommend SEA if you like thai cuisine !,<triplet> thai cuisine <opinion> like <sentiment> positive
+I was here a few weeks back and we had the worst customer service experience at a restaurant ever .,<triplet> customer service <opinion> worst <sentiment> negative
+I absolutely Loved this place .,<triplet> place <opinion> Loved <sentiment> positive
+"Excellent atmosphere , delicious dishes good and friendly service .",<triplet> atmosphere <opinion> Excellent <sentiment> positive <triplet> dishes <opinion> delicious <sentiment> positive <triplet> service <opinion> good <sentiment> positive <opinion> friendly <sentiment> positive
+The wine list is also really nice .,<triplet> wine list <opinion> nice <sentiment> positive
+"Everything was wonderful ; food , drinks , staff , mileau .",<triplet> food <opinion> wonderful <sentiment> positive <triplet> drinks <opinion> wonderful <sentiment> positive <triplet> staff <opinion> wonderful <sentiment> positive <triplet> mileau <opinion> wonderful <sentiment> positive
+I have been to Casimir over 5 times and I have always had a great time there .,<triplet> Casimir <opinion> great time <sentiment> positive
+The food is great and reasonably priced .,<triplet> food <opinion> great <sentiment> positive <opinion> reasonably priced <sentiment> positive
+"The staff has been nice , but they seemed really stressed and the unisex bathroom needs to be cleaned more often .",<triplet> staff <opinion> nice <sentiment> positive <opinion> stressed <sentiment> positive <triplet> unisex bathroom <opinion> stressed <sentiment> negative
+"From the spectacular caviar to the hospitable waitstaff , I felt like royalty and enjoyed every second of it .",<triplet> caviar <opinion> spectacular <sentiment> positive <opinion> enjoyed <sentiment> positive <triplet> waitstaff <opinion> hospitable <sentiment> positive <opinion> enjoyed <sentiment> positive
+"Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",<triplet> waitstaff <opinion> comfortable <sentiment> positive <opinion> relaxed <sentiment> positive
+I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .,<triplet> caviar <opinion> delicious top grade <sentiment> positive <triplet> service <opinion> fantastic <sentiment> positive
+Friendly staff that actually lets you enjoy your meal and the company you 're with .,<triplet> staff <opinion> Friendly <sentiment> positive
+"I found the food to be outstanding , particulary the salmon dish I had .",<triplet> food <opinion> outstanding <sentiment> positive <triplet> salmon dish <opinion> outstanding <sentiment> positive
+"I also ordered the Change Mojito , which was out of this world .",<triplet> Change Mojito <opinion> out of this world <sentiment> positive
+"We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",<triplet> back patio <opinion> worth <sentiment> positive <opinion> cool <sentiment> positive <triplet> music <opinion> well <sentiment> positive
+"Overall , excellent restaurant !",<triplet> restaurant <opinion> excellent <sentiment> positive
+The food was good .,<triplet> food <opinion> good <sentiment> positive
+The place was nice and calm .,<triplet> place <opinion> nice <sentiment> positive <opinion> calm <sentiment> positive
+but the service was a bit slow .,<triplet> service <opinion> slow <sentiment> negative
+The buffet had a nice selection .,<triplet> buffet <opinion> nice <sentiment> positive
+The food was average or above including some surprising tasty dishes .,<triplet> food <opinion> average or above <sentiment> positive <triplet> dishes <opinion> tasty <sentiment> positive
+Service was also very good .,<triplet> Service <opinion> good <sentiment> positive
+I got an excellent piece of cheesecake and we had several other nice pastries .,<triplet> cheesecake <opinion> excellent <sentiment> positive <triplet> pastries <opinion> nice <sentiment> positive
+My son and his girlfriend both wanted cheeseburgers and they were huge !,<triplet> cheeseburgers <opinion> huge <sentiment> neutral
+"Consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them .",<triplet> burgers <opinion> fell apart <sentiment> negative
+"This place is really trendi but they have forgotten about the most important part of a restaurant , the food .",<triplet> food <opinion> forgotten <sentiment> negative <triplet> place <opinion> trendi <sentiment> positive
+"The last two times I ordered from here my food was soo spicy that I could barely eat it , and the spice took away from the flavor of the dish .",<triplet> food <opinion> spicy <sentiment> negative
+And the Tom Kha soup was pathetic .,<triplet> Tom Kha soup <opinion> pathetic <sentiment> negative
+If you want good authentic Thai this place is not the place to go .,<triplet> Thai <opinion> good authentic <sentiment> negative
+"The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",<triplet> pesto pizza <opinion> excellent <sentiment> positive <triplet> spicy Italian cheese <opinion> nice <sentiment> positive
+"THe back garden sitting area is very pleasant , where you can see their personal herb garden .",<triplet> back garden sitting area <opinion> pleasant <sentiment> positive
+We had the lobster sandwich and it was FANTASTIC .,<triplet> lobster sandwich <opinion> FANTASTIC <sentiment> positive
+"My husband said he could 've eaten several more , the portion was fine for me he even exclaimed that the french fries were the best he has had .",<triplet> portion <opinion> fine <sentiment> positive <triplet> french fries <opinion> best <sentiment> positive
+We waited at the bar and had martinis that were just right .,<triplet> martinis <opinion> right <sentiment> positive
+love the food .,<triplet> food <opinion> love <sentiment> positive
+it 's the only place you can get yummy authentic japanese comfort food .,<triplet> japanese comfort food <opinion> yummy authentic <sentiment> positive
+"Great food , good size menu , great service and an unpretensious setting .",<triplet> food <opinion> Great <sentiment> positive <triplet> menu <opinion> good size <sentiment> positive <triplet> service <opinion> great <sentiment> positive <triplet> setting <opinion> unpretensious <sentiment> positive
+"The freshest , best variety , and the fastest delivery .",<triplet> delivery <opinion> fastest <sentiment> positive
+"We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .",<triplet> sushi <opinion> particular <sentiment> positive <triplet> ceviche mix ( special ) <opinion> please <sentiment> positive <triplet> crab dumplings <opinion> please <sentiment> positive <triplet> assorted sashimi <opinion> please <sentiment> positive <triplet> rolls <opinion> please <sentiment> positive <triplet> two types of sake <opinion> please <sentiment> positive <triplet> banana tempura <opinion> please <sentiment> positive
+Definitely a great spot for a nice occasion or date .,<triplet> spot <opinion> great <sentiment> positive
+"Average to good Thai food , but terrible delivery .",<triplet> Thai food <opinion> Average to good <sentiment> positive <triplet> delivery <opinion> terrible <sentiment> negative
+This is a wonderful place on all stand points especially value ofr money .,<triplet> place <opinion> wonderful <sentiment> positive
+An excellent service,<triplet> service <opinion> excellent <sentiment> positive
+We were greeted promptly by the waiter who was very nice and cordial .,<triplet> waiter <opinion> nice <sentiment> positive <opinion> cordial <sentiment> positive
+She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food .,<triplet> dishes <opinion> good <sentiment> positive
+We ended our great experience by having Gulab Jamun ( dessert ) recommended by the waiter .,<triplet> Gulab Jamun ( dessert ) <opinion> great <sentiment> positive
+I thanked my friend who recommended me this restaurant and will certainly recommend it to others .,<triplet> restaurant <opinion> recommend <sentiment> positive
+"Service here was great , food was fantastic .",<triplet> Service <opinion> great <sentiment> positive <triplet> food <opinion> fantastic <sentiment> positive
+"Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",<triplet> Guacamole+shrimp appetizer <opinion> great <sentiment> positive <triplet> filet <opinion> good <sentiment> positive
+You can not go wrong with this place .,<triplet> place <opinion> wrong <sentiment> positive
+"The food is outstanding and the service is quick , friendly and very professional .",<triplet> food <opinion> outstanding <sentiment> positive <triplet> service <opinion> quick <sentiment> positive <opinion> friendly <sentiment> positive <opinion> professional <sentiment> positive
+"Always a nice crowd , but never loud .",<triplet> crowd <opinion> nice <sentiment> positive <opinion> never loud <sentiment> positive
+I am reluctant to write because I would not want my jem of a pizza place to become overcrowded .,<triplet> pizza place <opinion> overcrowded <sentiment> positive
+"The crust is thin , the ingredients are fresh and the staff is friendly .",<triplet> crust <opinion> thin <sentiment> positive <triplet> staff <opinion> friendly <sentiment> positive <triplet> ingredients <opinion> fresh <sentiment> positive
+"The fish was really , really fresh .",<triplet> fish <opinion> fresh <sentiment> positive
+We all agreed that mare is one of the best seafood restaurants in New York .,<triplet> mare <opinion> best <sentiment> positive
+I stumbled upon this great pizzeria as I explored my new neighborhood .,<triplet> pizzeria <opinion> great <sentiment> positive
+All of the pizzas are terrific and the price is even better !,<triplet> pizzas <opinion> terrific <sentiment> positive
+I highly recommend the Sophia pizza .,<triplet> Sophia pizza <opinion> recommend <sentiment> positive
+"For the people who want great food plus great service , Roxy is a place to AVOID !",<triplet> food <opinion> great <sentiment> negative <triplet> service <opinion> great <sentiment> negative
+"The first time the sushi was outstanding , the second time it was a little bland .",<triplet> sushi <opinion> outstanding <sentiment> negative <opinion> bland <sentiment> negative
+"The blond wood decor is very soothing , the premium sake is excellent and the service is great .",<triplet> blond wood decor <opinion> soothing <sentiment> positive <triplet> premium sake <opinion> soothing <sentiment> positive <triplet> service <opinion> great <sentiment> positive
+Warning : You may find it difficult to dine at other Japanese restaurants after a visit to Mizu !,<triplet> Mizu <opinion> difficult <sentiment> positive
+"Thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up .",<triplet> people <opinion> beautiful <sentiment> positive <triplet> food <opinion> does n't quite match up <sentiment> negative <triplet> Thalia <opinion> beautiful <sentiment> positive
+I ordered the smoked salmon and roe appetizer and it was off flavor .,<triplet> smoked salmon and roe appetizer <opinion> off flavor <sentiment> negative
+I expected quite a bit more from such an expensive menu .,<triplet> menu <opinion> expensive <sentiment> negative
+"The view is spectacular , and the food is great .",<triplet> view <opinion> spectacular <sentiment> positive <triplet> food <opinion> great <sentiment> positive
+delicious simple food in nice outdoor atmosphere .,<triplet> food <opinion> delicious simple <sentiment> positive <triplet> outdoor atmosphere <opinion> nice <sentiment> positive
+"Kind , attentive wait staff .",<triplet> wait staff <opinion> Kind <sentiment> positive <opinion> attentive <sentiment> positive
+I really like both the scallops and the mahi mahi ( on saffron risotto yum ! ) .,<triplet> scallops <opinion> like <sentiment> positive <triplet> mahi mahi ( on saffron risotto <opinion> like <sentiment> positive
+Delicious crab cakes too .,<triplet> crab cakes <opinion> Delicious <sentiment> positive
+"Even if the food was n't this good , the garden is a great place to sit outside and relax .",<triplet> garden <opinion> great <sentiment> positive <triplet> food <opinion> was n't this good <sentiment> positive
+"Their calzones are horrific , bad , vomit-inducing , YUCK .",<triplet> calzones <opinion> horrific <sentiment> negative <opinion> bad <sentiment> negative <opinion> vomit-inducing <sentiment> negative <opinion> YUCK <sentiment> negative
+The counter service is bad .,<triplet> counter service <opinion> bad <sentiment> negative
+"The sandwiches are dry , tasteless and way overpriced .",<triplet> sandwiches <opinion> dry <sentiment> negative <opinion> tasteless <sentiment> negative <opinion> overpriced <sentiment> negative
+"Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance , but in this unattractive room with unhelpful clerks there was a dearth of the former too .",<triplet> place <opinion> unattractive <sentiment> negative <triplet> room <opinion> unattractive <sentiment> negative <triplet> clerks <opinion> unhelpful <sentiment> negative
+"Seriously , this place kicks ass .",<triplet> place <opinion> kicks ass <sentiment> positive
+"The atmosphere is unheralded , the service impecible , and the food magnificant .",<triplet> atmosphere <opinion> unheralded <sentiment> positive <triplet> service <opinion> impecible <sentiment> positive <triplet> food <opinion> magnificant <sentiment> positive
+"This is such a lovely , peaceful place to eat outside .",<triplet> place <opinion> lovely <sentiment> positive <opinion> peaceful <sentiment> positive
+"This is a great place to take out-of-towners , and perfect for watching the sunset .",<triplet> place <opinion> great <sentiment> positive
+Great sushi experience .,<triplet> sushi <opinion> Great <sentiment> positive
+Unique apppetizers .,<triplet> apppetizers <opinion> Unique <sentiment> positive
+Try sushimi cucumber roll .,<triplet> sushimi cucumber roll <opinion> Try <sentiment> positive
+The service is awful .,<triplet> service <opinion> awful <sentiment> negative
+This place is not worth the prices .,<triplet> place <opinion> not worth the prices <sentiment> negative
+Love Pizza 33 ...,<triplet> Pizza 33 <opinion> Love <sentiment> positive
+I will be out with friends and all of a sudden I am hungry and I only crave one thing ... their Pizza .,<triplet> Pizza <opinion> crave <sentiment> positive
+This tiny Williamsburg spot is always pleasantly surprising .,<triplet> Williamsburg spot <opinion> surprising <sentiment> positive
+The pizza is delicious and the proprietor is one of the nicest in NYC .,<triplet> pizza <opinion> delicious <sentiment> positive <triplet> proprietor <opinion> nicest <sentiment> positive
+"Bagels are ok , but be sure not to make any special requests !",<triplet> Bagels <opinion> ok <sentiment> neutral
+the turkey burgers are scary !,<triplet> turkey burgers <opinion> scary <sentiment> negative
+The sushi was awful !,<triplet> sushi <opinion> awful <sentiment> negative
+The rice was poor quality and was cooked so badly it was hard .,<triplet> rice <opinion> poor quality <sentiment> negative <opinion> cooked so badly <sentiment> negative <opinion> hard <sentiment> negative
+"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",<triplet> sushi <opinion> bland <sentiment> negative <opinion> disgusting <sentiment> negative
+"Good , fast service .",<triplet> service <opinion> Good <sentiment> positive <opinion> fast <sentiment> positive
+Food is great and inexpensive .,<triplet> Food <opinion> great <sentiment> positive <opinion> inexpensive <sentiment> positive
+The location is perfect .,<triplet> location <opinion> perfect <sentiment> positive
+If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .,<triplet> bottle <opinion> love <sentiment> negative <triplet> music <opinion> like <sentiment> negative
+Great atmoshere and worth every bit .,<triplet> atmoshere <opinion> Great <sentiment> positive
+Winnie and her staff are the best crew you can find serving you .,<triplet> staff <opinion> best <sentiment> positive <triplet> Winnie <opinion> best <sentiment> positive
+The food is reliable and the price is moderate .,<triplet> food <opinion> reliable <sentiment> positive
+"For authentic Thai food , look no further than Toons .",<triplet> Thai food <opinion> authentic <sentiment> positive
+"Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .",<triplet> Pad Thai <opinion> Try <sentiment> positive <opinion> delicious <sentiment> positive <triplet> appetizer menu <opinion> delicious <sentiment> positive
+"The service was attentive , yet discreet .",<triplet> service <opinion> attentive <sentiment> positive <opinion> discreet <sentiment> positive
+The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .,<triplet> brioche and lollies <opinion> cute <sentiment> positive <opinion> sweet <sentiment> positive
+The place was quiet and delightful .,<triplet> place <opinion> quiet <sentiment> positive <opinion> delightful <sentiment> positive
+Service was good and food is wonderful .,<triplet> Service <opinion> good <sentiment> positive <triplet> food <opinion> wonderful <sentiment> positive
+I did not try the caviar but I tried their salmon and crab salad ( they are all good ),<triplet> salmon <opinion> good <sentiment> positive <triplet> crab salad <opinion> good <sentiment> positive
+It is definitely a good spot for snacks and chat .,<triplet> spot <opinion> good <sentiment> positive
+"As a retired hipster , I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city .",<triplet> Lucky Strike <opinion> best <sentiment> positive
+"The wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) .",<triplet> wait staff <opinion> pleasant <sentiment> positive <opinion> fun <sentiment> positive <opinion> gorgeous <sentiment> positive
+"The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",<triplet> food <opinion> yummy <sentiment> positive <triplet> mussels in spicy tomato sauce <opinion> yummy <sentiment> positive <opinion> cooked-to-perfection <sentiment> positive <triplet> fries <opinion> yummy <sentiment> positive <opinion> crispy <sentiment> positive
+"But the best part about LS is the late night atmosphere , delightfully free of the BTs .",<triplet> late night atmosphere <opinion> best <sentiment> positive
+"You can get a completely delish martini in a glass ( that 's about 2 1/2 drinks ) for $ 8.50 ( I recommend the Vanilla Shanty , mmmm ! ) in a great homey setting with great music .",<triplet> martini <opinion> delish <sentiment> positive <triplet> Vanilla Shanty <opinion> recommend <sentiment> positive <triplet> setting <opinion> homey <sentiment> positive <triplet> music <opinion> great <sentiment> positive
+"The in-house lady DJ on Saturday nights has outrageously good taste in music , and moreover , takes requests .",<triplet> in-house lady DJ <opinion> good taste <sentiment> positive
+Suan is a great place that I often take my friends ( classmates ) too .,<triplet> Suan <opinion> great <sentiment> positive
+"Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .",<triplet> location <opinion> good <sentiment> positive <triplet> Suan <opinion> reasonable <sentiment> positive
+I LOVE their Thai,<triplet> Thai <opinion> LOVE <sentiment> positive
+noodles with shrimp and chicken and coconut juice is the MUST !,<triplet> noodles with shrimp and chicken and coconut juice <opinion> MUST <sentiment> positive
+In summer-eat outside on a terrace ( another great feature of Suan ) ! ! !,<triplet> terrace <opinion> great <sentiment> positive
+I can not imagine a friendlier staff working in a restaurant .,<triplet> staff <opinion> friendlier <sentiment> positive
+I can not imagine better Indian food in all of the city .,<triplet> Indian food <opinion> better <sentiment> positive
+"During the course of the past 3 months , the chef and staff changed and it was not for the better .",<triplet> chef <opinion> changed <sentiment> negative <triplet> staff <opinion> changed <sentiment> negative
+The food now is inconsistent .,<triplet> food <opinion> inconsistent <sentiment> negative
+This is the kind of place you 'd like to take all your friends to and still keep a secret .,<triplet> place <opinion> like <sentiment> positive
+The setting is casual and romantic .,<triplet> setting <opinion> casual <sentiment> positive <opinion> romantic <sentiment> positive
+"if you 're daring , try the balsamic vinegar over icecream , it 's wonderful !",<triplet> balsamic vinegar over icecream <opinion> try <sentiment> positive <opinion> wonderful <sentiment> positive
+"The rest of the dim sum , though pricey by Chinatown standards , is worth it .",<triplet> dim sum <opinion> pricey <sentiment> positive <opinion> worth <sentiment> positive
+"The wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .",<triplet> wait <opinion> long <sentiment> negative <triplet> atmosphere <opinion> sleek <sentiment> negative
+"A few tips : skip the turnip cake , roast pork buns and egg custards .",<triplet> turnip cake <opinion> skip <sentiment> negative <triplet> roast pork buns <opinion> skip <sentiment> negative <triplet> egg custards <opinion> skip <sentiment> negative
+The food was exceptional .,<triplet> food <opinion> exceptional <sentiment> positive
+"I choose to go with one of the special , the braised lamb shank in red wine , which was excellent .",<triplet> braised lamb shank in red wine <opinion> excellent <sentiment> positive
+The service was friendly and the atmosphere was casual .,<triplet> service <opinion> friendly <sentiment> positive <triplet> atmosphere <opinion> casual <sentiment> neutral
+"the pad se ew chicken was delicious , however the pad thai was far too oily .",<triplet> pad se ew chicken <opinion> delicious <sentiment> positive <triplet> pad thai <opinion> oily <sentiment> negative
+"Have eaten at Ginger House several times , and it 's always good .",<triplet> Ginger House <opinion> good <sentiment> positive
+The fried dumplings are GREAT !,<triplet> fried dumplings <opinion> GREAT <sentiment> positive
+Finally a reliable Chinese restaurant !,<triplet> Chinese restaurant <opinion> reliable <sentiment> positive
+"Terrible , terrible management - deserves to be shut-down .",<triplet> management <opinion> Terrible <sentiment> negative <opinion> terrible <sentiment> negative
+Spreads and toppings are great - though a bit pricey .,<triplet> Spreads <opinion> great <sentiment> negative <opinion> pricey <sentiment> negative <triplet> toppings <opinion> great <sentiment> negative <opinion> pricey <sentiment> negative
+"The food is decent at best , and the ambience , well , it 's a matter of opinion , some may consider it to be a sweet thing , I thought it was just annoying .",<triplet> food <opinion> decent <sentiment> negative <triplet> ambience <opinion> annoying <sentiment> negative
+You must try the shrimp appetizers .,<triplet> shrimp appetizers <opinion> try <sentiment> positive
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .,<triplet> ambience <opinion> correct <sentiment> positive <triplet> staff <opinion> excellent <sentiment> positive
+"Great food , great prices , great service .",<triplet> food <opinion> Great <sentiment> positive <triplet> service <opinion> great <sentiment> positive
+"If you are looking for a good quality , cheap eats - this is the place .",<triplet> eats <opinion> good quality <sentiment> positive <opinion> cheap <sentiment> positive
+it 's a perfect place to have a amazing indian food .,<triplet> indian food <opinion> amazing <sentiment> positive
+"also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !",<triplet> place <opinion> romantic <sentiment> positive <opinion> comfortable <sentiment> positive <triplet> service <opinion> perfect <sentiment> positive
+"Their bagels are fine , but they are a little overcooked , and not really a 'special ' bagel experience .",<triplet> bagels <opinion> fine <sentiment> negative <opinion> overcooked <sentiment> negative
+Great bagels made the old-fashioned way .,<triplet> bagels <opinion> Great <sentiment> positive
+The food was absolutely amazing ! !,<triplet> food <opinion> amazing <sentiment> positive
+The baked clams octopus we shared as appetizers were the best we 've ever had ! !,<triplet> baked clams octopus <opinion> best <sentiment> positive
+"The lamb was tender so full of flavor , the dessert was divine ! !",<triplet> lamb <opinion> tender <sentiment> positive <triplet> dessert <opinion> divine <sentiment> positive
+The waiter was attentive .,<triplet> waiter <opinion> attentive <sentiment> positive
+The place itself is beautiful the bar scene seems to be happening .,<triplet> place <opinion> beautiful <sentiment> positive
+"Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion ... try the potato stuff kanish best one .",<triplet> Appetizers <opinion> ok <sentiment> neutral <triplet> waiter <opinion> poor <sentiment> negative <triplet> potato stuff kanish <opinion> try <sentiment> positive <opinion> best <sentiment> positive
+"Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",<triplet> salmon <opinion> wasnt impressed <sentiment> negative <triplet> chicken <opinion> good <sentiment> positive <triplet> servings for main entree <opinion> Small <sentiment> negative
+Dessert is a joke ... dont bother,<triplet> Dessert <opinion> joke <sentiment> negative
+"The restaurant has a Family feel , not least with regard to the portions which are enormous ; the veal alone could have single-handedly solved third world famine .",<triplet> restaurant <opinion> Family feel <sentiment> positive <triplet> portions <opinion> enormous <sentiment> positive
+"The anti-pasta was excellent , especially the calamari , as were the filling pasta mains .",<triplet> anti-pasta <opinion> excellent <sentiment> positive <triplet> calamari <opinion> excellent <sentiment> positive <triplet> pasta mains <opinion> excellent <sentiment> positive
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal .,<triplet> wine list <opinion> extensive <sentiment> positive <triplet> meal <opinion> reasonably priced <sentiment> positive
+"Still , any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house ...",<triplet> measures of liquers <opinion> pour-your-own <sentiment> positive <opinion> courtesey <sentiment> positive
+Fantastic place .,<triplet> place <opinion> Fantastic <sentiment> positive
+"Great food , great decor , great service .",<triplet> food <opinion> Great <sentiment> positive <triplet> decor <opinion> great <sentiment> positive <triplet> service <opinion> great <sentiment> positive
+"This is the perfect spot for meeting friends , having lunch , dinner , pre-theatre or after-theatre drinks !",<triplet> spot <opinion> perfect <sentiment> positive
+Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .,<triplet> spot <opinion> Excellent <sentiment> positive
+I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED !,<triplet> Heartland Brewery <opinion> NEVER BEEN DISAPPOINTED <sentiment> positive
+Not the typical NYC gimmick theme restaurant .,<triplet> restaurant <opinion> Not the typical <sentiment> positive
+"A cool bar with great food , and tons of excellent beer .",<triplet> bar <opinion> cool <sentiment> positive <triplet> food <opinion> great <sentiment> positive <triplet> beer <opinion> excellent <sentiment> positive
+The shrimp scampi was excellent and the antipasti were plentiful .,<triplet> shrimp scampi <opinion> excellent <sentiment> positive <triplet> antipasti <opinion> plentiful <sentiment> positive
+The only thing more wonderful than the food ( which is exceptional ) is the service .,<triplet> food <opinion> exceptional <sentiment> positive <triplet> service <opinion> wonderful <sentiment> positive
+Cozy romantic atomosphere with only around 15 tables at most .,<triplet> atomosphere <opinion> Cozy romantic <sentiment> positive
+Service was very prompt but slightly rushed .,<triplet> Service <opinion> prompt <sentiment> positive <opinion> rushed <sentiment> positive
+"Food was very good , but not what I would consider out of this world .",<triplet> Food <opinion> good <sentiment> neutral
+Too bad the food was n't of the same heritage .,<triplet> food <opinion> bad <sentiment> negative
+"The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .",<triplet> porcini mushroom pasta special <opinion> tasteless <sentiment> negative <triplet> seafood tagliatelle <opinion> tasteless <sentiment> negative
+But that was n't the icing on the cake : a tiramisu that resembled nothing I have ever had .,<triplet> tiramisu <opinion> nothing <sentiment> negative
+I really liked this place .,<triplet> place <opinion> liked <sentiment> positive
+I also recommend the rice dishes or the different varieties of congee ( rice porridge ) .,<triplet> rice dishes <opinion> recommend <sentiment> positive <triplet> congee ( rice porridge ) <opinion> recommend <sentiment> positive
+It 's definately not a place to go if you want to impress someone .,<triplet> place <opinion> impress <sentiment> negative
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .",<triplet> food <opinion> great <sentiment> positive
+"When you 're sitting in their main dining room ( which has a spectacular , hand-painted high ceiling ) you 'd never know there was a world outside .",<triplet> main dining room <opinion> spectacular <sentiment> positive <triplet> ceiling <opinion> spectacular <sentiment> positive <opinion> hand-painted high <sentiment> positive
+"The food is wonderful , tasty and filling , and the service is professional and friendly .",<triplet> food <opinion> wonderful <sentiment> positive <opinion> tasty <sentiment> positive <opinion> filling <sentiment> positive <triplet> service <opinion> professional <sentiment> positive <opinion> friendly <sentiment> positive
+"I ca n't wait for summer , when they serve outside on their gigantic patio .",<triplet> patio <opinion> gigantic <sentiment> positive
+I recently tried Suan and I thought that it was great .,<triplet> Suan <opinion> great <sentiment> positive
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .,<triplet> service <opinion> fast <sentiment> positive <opinion> friendly <sentiment> positive <triplet> food <opinion> tasty <sentiment> positive <triplet> hot sauce <opinion> best <sentiment> positive
+Good food .,<triplet> food <opinion> Good <sentiment> positive
+Good drink .,<triplet> drink <opinion> Good <sentiment> positive
+"Great spot , whether looking for a couple of drinks or quiet dinner .",<triplet> spot <opinion> Great <sentiment> positive
+Warm and friendly in the winter and terrific outdoor seating in the warmer months .,<triplet> outdoor seating <opinion> terrific <sentiment> positive
+The food is great and they have a good selection of wines at reasonable prices .,<triplet> food <opinion> great <sentiment> positive <triplet> wines <opinion> good selection <sentiment> positive
+"While the ambiance and atmosphere were great , the food and service could have been a lot better .",<triplet> ambiance <opinion> great <sentiment> positive <triplet> atmosphere <opinion> great <sentiment> positive <triplet> food <opinion> could have been a lot better <sentiment> negative <triplet> service <opinion> could have been a lot better <sentiment> negative
+"i 've been to sapphire twice and both times the food was fine , if not good .",<triplet> food <opinion> fine <sentiment> positive
+"stick with the chicken , beef , and lamb dishes .",<triplet> chicken <opinion> stick <sentiment> positive <triplet> beef <opinion> stick <sentiment> positive <triplet> lamb dishes <opinion> stick <sentiment> positive
+"service is friendly , and never had a problem walking in and getting a table .",<triplet> service <opinion> friendly <sentiment> positive
+skip dessert .,<triplet> dessert <opinion> skip <sentiment> negative
+Best Reuben sandwich ever !,<triplet> Reuben sandwich <opinion> Best <sentiment> positive
+Do n't miss Bloom 's on your next trip to Manhatten .,<triplet> Bloom 's <opinion> miss <sentiment> positive
+Thanks Bloom 's for a lovely trip .,<triplet> Bloom 's <opinion> Thanks <sentiment> positive <opinion> lovely <sentiment> positive
+"The food was not fresh , the sauces were bland and very oily .",<triplet> food <opinion> not fresh <sentiment> negative <triplet> sauces <opinion> bland <sentiment> negative <opinion> oily <sentiment> negative
+Pizza was a little soggy .,<triplet> Pizza <opinion> soggy <sentiment> negative
+Ravioli was good ... but I have to say that I found everything a bit overpriced .,<triplet> Ravioli <opinion> good <sentiment> positive <opinion> overpriced <sentiment> positive
+Not enough wines by the glass either .,<triplet> wines by the glass <opinion> Not enough <sentiment> negative
+"Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .",<triplet> Food <opinion> average <sentiment> neutral
+This place is a great bargain .,<triplet> place <opinion> great bargain <sentiment> positive
+Authentic Pakistani food .,<triplet> Pakistani food <opinion> Authentic <sentiment> positive
+"Just straight up cheap , good food .",<triplet> food <opinion> cheap <sentiment> positive <opinion> good <sentiment> positive
+Faan is sooo good .,<triplet> Faan <opinion> good <sentiment> positive
+The best pad thai i 've ever had .,<triplet> pad thai <opinion> best <sentiment> positive
+The design and atmosphere is just as good .,<triplet> design <opinion> good <sentiment> positive <triplet> atmosphere <opinion> good <sentiment> positive
+"The mussles were the fishiest things I 've ever tasted , the seabass was bland , the goat cheese salad was missing the goat cheese , the penne w/ chicken had bones in it ... It was disgusting .",<triplet> mussles <opinion> fishiest <sentiment> negative <triplet> seabass <opinion> bland <sentiment> negative <triplet> goat cheese salad <opinion> missing <sentiment> negative <triplet> penne w/ chicken <opinion> disgusting <sentiment> negative
+"Nice atmosphere , the service was very pleasant and the desert was good .",<triplet> atmosphere <opinion> Nice <sentiment> positive <triplet> service <opinion> pleasant <sentiment> positive <triplet> desert <opinion> good <sentiment> positive
+"The food is amazing , rich pastas and fresh doughy pizza .",<triplet> food <opinion> amazing <sentiment> positive <triplet> pastas <opinion> rich <sentiment> positive <triplet> pizza <opinion> fresh doughy <sentiment> positive
+"Best of all is the warm vibe , the owner is super friendly and service is fast .",<triplet> vibe <opinion> warm <sentiment> positive <triplet> owner <opinion> friendly <sentiment> positive <triplet> service <opinion> fast <sentiment> positive
+"Ask for Usha , the nicest bartender in manhattan .",<triplet> Usha <opinion> nicest <sentiment> positive
+My fav was the sassy lassi ...,<triplet> sassy lassi <opinion> fav <sentiment> positive
+"Toons has recently been redone , so it 's now a very attractive space .",<triplet> Toons <opinion> attractive <sentiment> positive
+The food 's as good as ever .,<triplet> food <opinion> good <sentiment> positive
+"In an area sadly lacking in decent Thai food , this is one of the best spots .",<triplet> Thai food <opinion> decent <sentiment> positive
+"Went here last night - nice decor , good service , but the food was surprisingly excellent .",<triplet> decor <opinion> nice <sentiment> positive <triplet> service <opinion> good <sentiment> positive <triplet> food <opinion> excellent <sentiment> positive
+"The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .",<triplet> portions <opinion> HUGE <sentiment> neutral
+The service is good and the resturant is clean .,<triplet> service <opinion> good <sentiment> positive <triplet> resturant <opinion> clean <sentiment> positive
+Rao 's has the best service and atmosphere in NYC .,<triplet> service <opinion> best <sentiment> positive <triplet> atmosphere <opinion> best <sentiment> positive
+My roommate and I LOVE this place .,<triplet> place <opinion> LOVE <sentiment> positive
+"We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .",<triplet> outdoor seating <opinion> perfect <sentiment> positive
+Indoor was very cozy and cute .,<triplet> Indoor <opinion> cozy <sentiment> positive <opinion> cute <sentiment> positive
+"The portion sizes here are huge , and the sushi is good .",<triplet> portion sizes <opinion> huge <sentiment> positive <triplet> sushi <opinion> good <sentiment> positive
+"Excellent dumplings served amid clean , chic decor .",<triplet> dumplings <opinion> Excellent <sentiment> positive <triplet> decor <opinion> clean <sentiment> positive <opinion> chic <sentiment> positive
+The food was delicious but do not come here on a empty stomach .,<triplet> food <opinion> delicious <sentiment> negative
+The portions are small but being that the food was so good makes up for that .,<triplet> portions <opinion> small <sentiment> negative <triplet> food <opinion> good <sentiment> positive
+The staff there is very attentive and down to earth .,<triplet> staff <opinion> attentive <sentiment> positive <opinion> down to earth <sentiment> positive
+Great Indian food and the service is incredible .,<triplet> Indian food <opinion> Great <sentiment> positive <triplet> service <opinion> incredible <sentiment> positive
+Great food and the prices are very reasonable .,<triplet> food <opinion> Great <sentiment> positive
+The food here does a great service to the name ( Cantonese that is ... ) .,<triplet> food <opinion> great <sentiment> positive
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork .,<triplet> egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork <opinion> love <sentiment> positive
+This dish is my favorite and I always get it when I go there and never get tired of it .,<triplet> dish <opinion> favorite <sentiment> positive
+"Try the congee and the donut like deep fried dough they call Ow Ley Soh , a delicious and sweet tasting bread .",<triplet> Ow Ley Soh <opinion> delicious <sentiment> positive <opinion> sweet <sentiment> positive
+Simply some good tasting Chinese food at incredible prices ...,<triplet> Chinese food <opinion> good tasting <sentiment> positive
+Big Wong is a great place to eat and fill your stomach .,<triplet> Big Wong <opinion> great <sentiment> positive
+"good music , great food , speedy service affordable prices .",<triplet> music <opinion> good <sentiment> positive <triplet> food <opinion> great <sentiment> positive <triplet> service <opinion> speedy <sentiment> positive
+Consistently good Japanese Tapas .,<triplet> Japanese Tapas <opinion> good <sentiment> positive
+Always good drinks and service is pretty good ;,<triplet> drinks <opinion> good <sentiment> positive <triplet> service <opinion> good <sentiment> positive
+Atmosphere is nice and relaxed too ...,<triplet> Atmosphere <opinion> nice <sentiment> positive <opinion> relaxed <sentiment> positive
+A great place to meet up for some food and drinks ...,<triplet> place <opinion> great <sentiment> positive
+Yakitori ( bbq meats ) is tasty too .,<triplet> Yakitori ( bbq meats ) <opinion> tasty <sentiment> positive
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",<triplet> fish <opinion> low quality <sentiment> negative <triplet> staff <opinion> unfriendly <sentiment> negative <triplet> sushi chef <opinion> miserable <sentiment> negative
+"Fabulous decor - makes you feel like you 're in a trendy Manhattan restaurant , very very good food , cheaply-priced , generally friendly staff , and if you 're a Manhattanite , or spend most of your time in Manhattan , Rice Avenue will make you feel at home ... ..very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele ... ..all on Roosevelt Avenue !",<triplet> decor <opinion> Fabulous <sentiment> positive <triplet> food <opinion> good <sentiment> positive <opinion> cheaply-priced <sentiment> positive <triplet> staff <opinion> friendly <sentiment> positive
+"One would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so .",<triplet> waiter <opinion> snobby <sentiment> negative
+"With so many good restaurants on the UWS , I do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care .",<triplet> food <opinion> overpriced <sentiment> negative <triplet> wait-staff <opinion> arrogant <sentiment> negative <triplet> service <opinion> clumsy <sentiment> negative
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .,<triplet> service <opinion> disappointed <sentiment> negative <triplet> food <opinion> overated <sentiment> negative <opinion> pricey <sentiment> negative
+The only problem is that the manager is a complete incompetent .,<triplet> manager <opinion> incompetent <sentiment> negative
+He offers subpar service and has no personality .,<triplet> service <opinion> subpar <sentiment> negative
+There is no excuse for such lousy service !,<triplet> service <opinion> lousy <sentiment> negative
+I have never before eaten 40 pieces of relatively good nigiri .,<triplet> nigiri <opinion> good <sentiment> neutral
+"I went to Areo on a Sunday afternoon with four of my girlfriends , and spent three enjoyable hours there .",<triplet> Areo <opinion> enjoyable <sentiment> positive
+"Most of the servers are very attentive , friendly and quite attractive .",<triplet> servers <opinion> attentive <sentiment> positive <opinion> friendly <sentiment> positive <opinion> attractive <sentiment> positive
+Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went .,<triplet> Food <opinion> good <sentiment> positive <triplet> view of the new york city skiline <opinion> terrific <sentiment> positive
+I would highly recommand requesting a table by the window .,<triplet> table by the window <opinion> recommand <sentiment> positive
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .,<triplet> service <opinion> good <sentiment> positive <triplet> place <opinion> relaxing <sentiment> positive
+The food is great .,<triplet> food <opinion> great <sentiment> positive
+Personal pans are the perfect size for those hungry nights .,<triplet> Personal pans <opinion> perfect <sentiment> positive
+There is a downside if you 're ordering in -- the delivery guys have MAJOR attitude .,<triplet> delivery guys <opinion> downside <sentiment> negative
+"Love the scene first off- the place has a character and nice light to it..very fortunate , location wise .",<triplet> scene <opinion> Love <sentiment> positive <triplet> place <opinion> nice <sentiment> positive <triplet> location <opinion> fortunate <sentiment> positive
+The pizza was pretty good and huge .,<triplet> pizza <opinion> good <sentiment> positive <opinion> huge <sentiment> positive
+We were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally .,<triplet> penne a la vodka <opinion> gigantic <sentiment> positive
+"The pasta penne was pretty extra buttery , creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count , penne ... got a little moody afterwards cause was stuffed ... lol",<triplet> pasta penne <opinion> buttery <sentiment> negative
+"La Rosa waltzes in , and I think they are doing it the best .",<triplet> La Rosa <opinion> best <sentiment> positive
+"Interesting selection , good wines , service fine , fun decor .",<triplet> wines <opinion> good <sentiment> positive <triplet> service <opinion> fine <sentiment> positive <triplet> decor <opinion> fun <sentiment> positive <triplet> selection <opinion> Interesting <sentiment> positive
+"I found it on a cold night , the perfect spot to warm up .",<triplet> spot <opinion> perfect <sentiment> positive
+I recieved prompt service with a smile .,<triplet> service <opinion> prompt <sentiment> positive
+This place blew me away ... by far my new favorite restaurant on the uppereast side .,<triplet> place <opinion> favorite <sentiment> positive
+The wine list is extensive and impressive .,<triplet> wine list <opinion> extensive <sentiment> positive <opinion> impressive <sentiment> positive
+LOVE the atmosphere - felt like I was in Paris .,<triplet> atmosphere <opinion> LOVE <sentiment> positive
+The mussels were fantastic and so was the dessert ... definitely going to be back very soon .,<triplet> mussels <opinion> fantastic <sentiment> positive <triplet> dessert <opinion> fantastic <sentiment> positive
+I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna .,<triplet> service <opinion> good <sentiment> positive <triplet> staff <opinion> great <sentiment> positive
+"Over the years the host , Vittorio , and his crew , have always treated me as family -- although with all the business this not-so-little gem does , it amazing he 's even able to remember a consistent but not-so-frequent visitor .",<triplet> host <opinion> amazing <sentiment> positive
+"I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",<triplet> Dining Garden <opinion> fantastic <sentiment> positive <triplet> Jazz Bar <opinion> new <sentiment> positive <triplet> Thin Crust Pizzas <opinion> Best <sentiment> positive <triplet> Lasagna Menu <opinion> die for <sentiment> positive
+I lOVE THIS PLACE !,<triplet> PLACE <opinion> lOVE <sentiment> positive
+I have to say I have never had a disapointing meal here .,<triplet> meal <opinion> never had a disapointing <sentiment> positive
+We could have made a meal of the yummy dumplings from the dumpling menu .,<triplet> dumplings <opinion> yummy <sentiment> positive
+"Luckily we saved room for the BBQ Salmon , Sea Bass and Crispy Duck .",<triplet> BBQ Salmon <opinion> Luckily <sentiment> positive <triplet> Sea Bass <opinion> Luckily <sentiment> positive <triplet> Crispy Duck <opinion> Luckily <sentiment> positive
