@@ -1,9 +1,9 @@
 # CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
 *Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal* \
-*Indian Institute of Technology Kharagpur*
+*Indian Institute of Technology Kharagpur* \
 **Empirical Methods in Natural Language Processing (EMNLP 2023)**
 
-*=TLDR: Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA**
+*TLDR: Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA**
 
 **[Note]** Code release is in progress. Stay tuned.
 
