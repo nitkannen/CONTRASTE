@@ -1,6 +1,6 @@
 #  CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
-*Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal*
-*Indian Institute of Kharagpur*
+*Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal* \
+*Indian Institute of Technology Kharagpur*
 
 **Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA**
 
