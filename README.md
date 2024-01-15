@@ -7,7 +7,6 @@
 
 **[Note]** Code release is in progress. Stay tuned!!
 
-![image](https://user-images.githubusercontent.com/48293666/112762331-bc71f100-901c-11eb-9853-a82b8e873dec.png)
 ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/CONTRASTE.png)
 
 
