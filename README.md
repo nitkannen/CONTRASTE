@@ -1,8 +1,10 @@
 #  CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
-* Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal*
-* Indian Institute of Kharagpur *
+*Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal*
+*Indian Institute of Kharagpur*
 
-**[Note]** Code is being uploaded. Stay tuned.
+**Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA**
+
+**[Note]** Code release is in progress. Stay tuned.
 
 Codes for EMNLP 2023 Findings paper: CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction [To be released soon]
 
