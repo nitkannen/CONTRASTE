@@ -1,4 +1,7 @@
 # CONTRASTE
+[Note]
+Code is being uploaded. Stay tuned.
+
 Codes for EMNLP 2023 Findings paper: CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction [To be released soon]
 
 
