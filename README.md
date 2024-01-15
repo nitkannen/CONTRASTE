@@ -5,9 +5,10 @@
 
 *TLDR: Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA**
 
-**[Note]** Code release is in progress. Stay tuned.
+**[Note]** Code release is in progress. Stay tuned!!
 
-Codes for EMNLP 2023 Findings paper: CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction [To be released soon]
+![Alt text]([image link](https://github.com/nitkannen/CONTRASTE/blob/main/figures/CONTRASTE.png))
+
 
 
 To pretrain the model and save the chekpoints of the pretrained models after certain epochs use:
