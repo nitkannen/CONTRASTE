@@ -163,6 +163,8 @@ def initialise_args():
         os.mkdir(task_dir)
 
     experiment_dir = f"{task_dir}/{args.dataset}"
+    if not os.path.exists(experiment_dir):
+        os.mkdir(experiment_dir)
 
     output_dir = experiment_dir
     args.output_dir = output_dir
