@@ -90,10 +90,7 @@ def collate_fn(batch):
 
     input_ids, attention_mask, decoder_input_labels, decoder_attention_mask ,labels, raw_text = zip(*batch)
 
-    #bert_masks = pad_sequence([torch.ones(tokens.shape) for tokens in bert_tokens], batch_first=True)
-    #bert_tokens = pad_sequence(bert_tokens, batch_first=True)
-    #aspect_masks = pad_sequence(aspect_masks, batch_first=True)
-    #input_ids = torch.tensor(input_ids)
+
     input_ids = pad_sequence([torch.tensor(input) for input in (input_ids)], batch_first=True)
     attention_mask = pad_sequence([torch.tensor(att) for att in (attention_mask)], batch_first=True)
     decoder_input_labels = pad_sequence([torch.tensor(dec) for dec in (decoder_input_labels)], batch_first=True)
@@ -171,9 +168,6 @@ class SupConLoss(nn.Module):
         Returns:
             A loss scalar.
         """
-        # device = (torch.device('cuda')
-        #           if features.is_cuda
-        #           else torch.device('cpu'))
 
         if len(features.shape) < 3:
             raise ValueError('`features` needs to be [bsz, n_views, ...],'
@@ -273,8 +267,6 @@ def _shift_right( input_ids):
 
 
 
-
-
 if __name__ == '__main__':
 
   parser = argparse.ArgumentParser()
@@ -366,19 +358,14 @@ if __name__ == '__main__':
                 decoder_input_ids = decoder_input_ids, 
                 output_hidden_states = True
             )
-            #print(outputs.decoder_hidden_states)
+
             mask_position = torch.tensor(np.where( decoder_input_ids.cpu().numpy() == 32099, 1, 0)).to(device)
-            #right_shifted_mask_position = _shift_right(mask_position)
-            #print(mask_position)
+
             masked_embeddings = outputs.decoder_hidden_states[-1]  * mask_position.unsqueeze(2)
-            #print(masked_embeddings)
-            #print(masked_embeddings)
-            #print(masked_embeddings.shape)
             sentence_embedding = torch.sum(masked_embeddings, axis = 1)
 
             normalized_sentence_embeddings = sentence_embedding.to(device)
-            #print(normalized_sentence_embeddings)
-            #print(normalized_sentence_embeddings.shape)
+
             similar_loss = contrast_criterion(normalized_sentence_embeddings.unsqueeze(1), labels=labels)
             loss = similar_loss
 
@@ -398,7 +385,6 @@ if __name__ == '__main__':
                     f"Epoch: {epoch}, Running loss: {np.mean(list(window_stats)):.2f}"
                 )
 
-            #print("Loss in Batch:", loss.item())
 
           else:
               pass
