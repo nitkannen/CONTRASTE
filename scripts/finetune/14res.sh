@@ -1,1 +1,19 @@
-python finetuning/main.py --task ASTE --dataset 14res  --train_dataset_path finetuning/data/14res/train  --dev_dataset_path finetuning/data/14res/dev  --test_dataset_path finetuning/data/14res/test  --model_name_or_path t5-base  --do_train   --do_eval  --train_batch_size 4  --gradient_accumulation_steps 4  --eval_batch_size 16  --learning_rate 3e-4  --num_train_epochs 20  --regressor True  --use_tagger True  --logger_name 14res_base.txt  --log_message 4_4_3e4_0.2 --gpu_id 0
+python finetuning/main.py \
+       --task ASTE \
+       --dataset 14res  \
+       --train_dataset_path finetuning/data/14res/train \
+       --dev_dataset_path finetuning/data/14res/dev \
+       --test_dataset_path finetuning/data/14res/test \
+       --model_name_or_path t5-base \
+       --do_train \
+       --do_eval  \
+       --train_batch_size 4  \
+       --gradient_accumulation_steps 4  \
+       --eval_batch_size 16  \
+       --learning_rate 3e-4  \
+       --num_train_epochs 20  \
+       --regressor True  \
+       --use_tagger True  \
+       --logger_name 14res_base.txt  \
+       --log_message 4_4_3e4_0.2 \
+       --gpu_id 0
