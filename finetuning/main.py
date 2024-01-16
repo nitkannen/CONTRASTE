@@ -606,6 +606,19 @@ if __name__ == "__main__":
         from ASTE.preprocessor import ABSA_Dataset
         from ASTE.utils import correct_spaces, get_f1_for_trainer
 
+    elif args.task == 'ACOS':
+        #### include imports exclusive to ACOS here
+        pass
+
+    elif args.task == 'TASD':
+        from TASD.preprocessor import ABSA_Dataset
+        from TASD.utils import correct_spaces, get_f1_for_trainer
+
+    elif args.task == 'AESC':
+        from AESC.preprocessor import ABSA_Dataset
+        from AESC.utils import correct_spaces, get_f1_for_trainer
+
+
 
     gpu_id = args.gpu_id
 
