@@ -90,7 +90,7 @@ To finetune the pretrained model on the ASTE Task using a particular checkpoint 
   * sentencepiece
   * transformers
 
-## If you our work useful, please cite using:
+## If you find our work useful, please cite using:
 ```
 @inproceedings{mukherjee-etal-2023-contraste,
     title = "{CONTRASTE}: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction",
