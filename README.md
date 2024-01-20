@@ -1,15 +1,41 @@
 # CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
+[[Paper: CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction ]](https://aclanthology.org/2023.findings-emnlp.807.pdf)
+
 *Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal* \
 *Indian Institute of Technology Kharagpur* \
-**Empirical Methods in Natural Language Processing (EMNLP 2023)** \
-[[Paper Link]](https://aclanthology.org/2023.findings-emnlp.807.pdf)
+**[Empirical Methods in Natural Language Processing (EMNLP 2023)](https://2023.emnlp.org/)** 
+
 
 *TLDR: Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA*
+
+## Abstract
+
+Existing works on Aspect Sentiment Triplet
+Extraction (ASTE) explicitly focus on developing more efficient fine-tuning techniques for
+the task. Instead, our motivation is to come up
+with a generic approach that can improve the
+downstream performances of multiple ABSA
+tasks simultaneously. Towards this, we present
+CONTRASTE, a novel pre-training strategy
+using CONTRastive learning to enhance the
+ASTE performance. While we primarily focus on ASTE, we also demonstrate the advantage of our proposed technique on other ABSA
+tasks such as ACOS, TASD, and AESC. Given
+a sentence and its associated (aspect, opinion, sentiment) triplets, first, we design aspectbased prompts with corresponding sentiments
+masked. We then (pre)train an encoder-decoder
+model by applying contrastive learning on the
+decoder-generated aspect-aware sentiment representations of the masked terms. For finetuning the model weights thus obtained, we
+then propose a novel multi-task approach where
+the base encoder-decoder model is combined
+with two complementary modules, a taggingbased Opinion Term Detector, and a regressionbased Triplet Count Estimator. Exhaustive experiments on four benchmark datasets and a detailed ablation study establish the importance of
+each of our proposed components as we achieve
+new state-of-the-art ASTE results.
 
 **[Note]** Code release is in progress. Stay tuned!!
 
 ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/CONTRASTE.png)
 
+Jiyeon Han<sup>1</sup>, Hwanil Choi<sup>1</sup>, Yunjey Choi<sup>2</sup>, 
+Junho Kim<sup>2</sup>, Jung-Woo Ha<sup>2</sup>, Jaesik Choi<sup>1</sup>  
 
 
 To pretrain the model and save the chekpoints of the pretrained models after certain epochs use:
