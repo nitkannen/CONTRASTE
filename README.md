@@ -2,8 +2,8 @@
 [[Paper: CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction ]](https://aclanthology.org/2023.findings-emnlp.807.pdf)
 
 *Rajdeep Mukherjee, Nithish Kannen, Saurabh Kumar Pandey, Pawan Goyal* \
-*Indian Institute of Technology Kharagpur* \
-**[Empirical Methods in Natural Language Processing (EMNLP 2023)](https://2023.emnlp.org/)** 
+**Indian Institute of Technology Kharagpur** \
+[Empirical Methods in Natural Language Processing (EMNLP 2023)](https://2023.emnlp.org/)
 
 
 *TLDR: Contrastive Pre-Training to improve aspect-level sentiment understanding for ABSA*
@@ -34,8 +34,6 @@ new state-of-the-art ASTE results.
 
 ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/CONTRASTE.png)
 
-Jiyeon Han<sup>1</sup>, Hwanil Choi<sup>1</sup>, Yunjey Choi<sup>2</sup>, 
-Junho Kim<sup>2</sup>, Jung-Woo Ha<sup>2</sup>, Jaesik Choi<sup>1</sup>  
 
 
 To pretrain the model and save the chekpoints of the pretrained models after certain epochs use:
