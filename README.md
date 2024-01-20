@@ -77,7 +77,7 @@ To finetune the pretrained model on the ASTE Task using a particular checkpoint 
 
  ## Effect of Contrastive Pre-training
 
- ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/viz_contrast.png)
+ ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/viz_contrast_plot.png)
 
  ## Results
  ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/table_results.png)
