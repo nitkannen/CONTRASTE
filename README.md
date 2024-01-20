@@ -74,7 +74,14 @@ To finetune the pretrained model on the ASTE Task using a particular checkpoint 
                 --log_message regressor_and_tagger_2 \
      
  ```
- 
+
+ ## Effect of Contrastive Pre-training
+
+ ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/viz_contrast.png)
+
+ ## Results
+ ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/table_results.png)
+
  
   ### Packages Required
   
