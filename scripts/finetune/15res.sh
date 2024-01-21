@@ -7,6 +7,8 @@ python finetuning/main.py \
        --model_name_or_path t5-base \
        --do_train \
        --do_eval  \
+       --alpha 0.8 \
+       --beta 0.4 \
        --train_batch_size 4  \
        --gradient_accumulation_steps 4  \
        --eval_batch_size 16  \

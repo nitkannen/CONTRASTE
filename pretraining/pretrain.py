@@ -485,6 +485,6 @@ if __name__ == "__main__":
         )
         end = time.time()
         print("[Epoch {:2d}] complete in {:.2f} seconds".format(epoch, end - start))
-        print(f"Loss at epoch: {total_loss / len(loader)}")
+        print(f"Loss at epoch: {total_loss / ( len(loader) *  args.batch_size) }")
 
         ####### Save models in mode directory

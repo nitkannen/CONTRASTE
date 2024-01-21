@@ -7,13 +7,15 @@ python finetuning/main.py \
        --model_name_or_path t5-base \
        --do_train \
        --do_eval  \
-       --train_batch_size 4  \
-       --gradient_accumulation_steps 4  \
+       --train_batch_size 2  \
+       --alpha 1 \
+       --beta 0.4 \
+       --gradient_accumulation_steps 2  \
        --eval_batch_size 16  \
        --learning_rate 3e-4  \
        --num_train_epochs 20  \
        --regressor True  \
        --use_tagger True  \
        --logger_name lap14_base.txt  \
-       --log_message 4_4_3e4_0.2 \
+       --log_message 2_2_3e4_0.2 \
        --gpu_id 0
