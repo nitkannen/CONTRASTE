@@ -89,6 +89,13 @@ python finetuning/main.py \
   * sentencepiece
   * transformers
 
+In order to set-up the the environment at once using conda, run the following:
+
+```
+conda install --file requirements.txt
+```
+
+
 ## If you find our work useful, please cite using:
 ```
 @inproceedings{mukherjee-etal-2023-contraste,
