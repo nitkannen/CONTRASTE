@@ -87,7 +87,7 @@ python finetuning/main.py \
  ![Alt text](https://github.com/nitkannen/CONTRASTE/blob/main/figures/table_results.png)
 
  
-  ### Packages Required
+  ## Packages Required
   
   * datasets
   * pytorch_lightning
@@ -100,6 +100,7 @@ In order to set-up the the environment at once using conda, run the following:
 conda install --file requirements.txt
 ```
 
+# Citation
 
 ## If you find our work useful, please cite using:
 ```
