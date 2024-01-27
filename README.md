@@ -36,42 +36,41 @@ new state-of-the-art ASTE results.
 
 
 
-To pretrain the model and save the chekpoints of the pretrained models after certain epochs use:
+To perform contrastive pre-training of the model and to save the checkpoints after certain epoch, run:
 
 ```
 sh scripts/pretrain.sh
      
  ```
 
-To finetune for 15res ASTE task without pretraining use:
+To fine-tune for 15res ASTE task without the base model (without pre-training) use:
  
  ```
 sh scripts/finetune/15res.sh
  
  ```
-To finetune the pretrained model on the ASTE Task using a particular checkpoint use:
+
+To fine-tune the contrastive pre-trained model on the 14res ASTE Task using a particular saved checkpoint, run:
  
  ```
-!python main.py --task 15res \
-                --train_dataset_path 15res/train \
-                --dev_dataset_path 15res/dev \
-                --test_dataset_path 15res/test \
-                --model_name_or_path models/contraste_model_after_2_epochs\
-                --n_gpu 1 \
-                --do_train \
-                --do_eval \
-                --train_batch_size 2 \
-                --gradient_accumulation_steps 2 \
-                --eval_batch_size 16 \
-                --learning_rate 3e-4 \
-                --num_train_epochs 20 \
-                --regressor True \
-                --use_tagger True \
-                --beta 0.2 \
-                --alpha 0.8 \
-                --model_weights models/contraste_model_after_2_epochs \
-                --logger_name 15res_logs_regressor_tagger_contrast2.txt \
-                --log_message regressor_and_tagger_2 \
+python finetuning/main.py \
+     --task ASTE --dataset 14res \
+     --train_dataset_path finetuning/data/14res/train \
+     --dev_dataset_path finetuning/data/14res/dev  \
+     --test_dataset_path finetuning/data/14res/test  \
+     --model_name_or_path models/contraste_model_after_12_epochs  \
+     --do_train   \
+     --do_eval \
+     --train_batch_size 4  \
+     --gradient_accumulation_steps 4  \
+     --eval_batch_size 16  \
+     --learning_rate 3e-4  \
+     --num_train_epochs 20  \
+     --regressor True  \
+     --use_tagger True \
+     --logger_name 14res_base_12.txt  \
+     --log_message 4_4_3e4_0.2 \
+     --gpu_id 0
      
  ```
 
