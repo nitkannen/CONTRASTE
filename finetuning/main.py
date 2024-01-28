@@ -598,27 +598,24 @@ def evaluate(data_loader, model, device):
 
 
 if __name__ == "__main__":
-
     args = initialise_args()
     seed_everything(args.seed)
 
-    if args.task == 'ASTE':
+    if args.task == "ASTE":
         from ASTE.preprocessor import ABSA_Dataset
         from ASTE.utils import correct_spaces, get_f1_for_trainer
 
-    elif args.task == 'ACOS':
+    elif args.task == "ACOS":
         #### include imports exclusive to ACOS here
         pass
 
-    elif args.task == 'TASD':
+    elif args.task == "TASD":
         from TASD.preprocessor import ABSA_Dataset
         from TASD.utils import correct_spaces, get_f1_for_trainer
 
-    elif args.task == 'AESC':
+    elif args.task == "AESC":
         from AESC.preprocessor import ABSA_Dataset
         from AESC.utils import correct_spaces, get_f1_for_trainer
-
-
 
     gpu_id = args.gpu_id
 
@@ -638,10 +635,6 @@ if __name__ == "__main__":
     )
     tuner_model = T5ForConditionalGeneration.from_pretrained(args.model_name_or_path)
     tuner_model.resize_token_embeddings(len(tokenizer))
-
-    if args.model_weights != "":  ## initializing checkpoint weights
-        weights = args.model_weights
-        tuner_model = load_model_weights(tuner_model, weights)
 
     logger = TensorBoardLogger(args.output_dir, name=args.task)
     custom_logger = open(os.path.join(args.output_dir, args.logger_name), "w")
