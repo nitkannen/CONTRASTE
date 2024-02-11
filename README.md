@@ -51,7 +51,7 @@ sh scripts/finetune/lap14_ASTE_MTL.sh
  ```
 
 * change the 'task' and 'dataset' arguments in shell script to change the task.
-* disable the use_regressor and use_tagger commands from the shell script to run the ASTE-base model
+* disable the 'use_regressor' and 'use_tagger' arguments from the shell script to run the ASTE-base model
 
 
 
@@ -61,7 +61,6 @@ To perform contrastive pre-training of the model and to save the checkpoints aft
 
 ```
 sh scripts/pretrain.sh
-     
  ```
 
 
