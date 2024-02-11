@@ -41,6 +41,22 @@ Environment setup:
 conda install --file requirements.txt
 ```
 
+To fine-tune for 15res ASTE task with the ASTE-MTL model (without pre-training), run the following:
+ 
+ ```
+sh scripts/finetune/14res_ASTE_MTL.sh
+sh scripts/finetune/15res_ASTE.sh
+sh scripts/finetune/16res_ASTE_MTL.sh
+sh scripts/finetune/lap14_ASTE_MTL.sh
+ ```
+
+* change the 'task' and 'dataset' arguments in shell script to change the task.
+* disable the use_regressor and use_tagger commands from the shell script to run the ASTE-base model
+
+
+
+
+
 To perform contrastive pre-training of the model and to save the checkpoints after certain epoch, run:
 
 ```
@@ -48,36 +64,17 @@ sh scripts/pretrain.sh
      
  ```
 
-To fine-tune for 15res ASTE task without the base model (without pre-training) use:
- 
- ```
-sh scripts/finetune/15res.sh
- 
+
+
+To fine-tune the contrastive pre-trained model for the ASTE task, run:
+
+  ```
+sh scripts/finetune/14res_CONTRASTE_MTL.sh
+sh scripts/finetune/15res_CONTRASTE.sh
+sh scripts/finetune/16res_CONTRASTE_MTL.sh
+sh scripts/finetune/lap14_CONTRASTE_MTL.sh
  ```
 
-To fine-tune the contrastive pre-trained model on the 14res ASTE Task using a particular saved checkpoint, run:
- 
- ```
-python finetuning/main.py \
-     --task ASTE --dataset 14res \
-     --train_dataset_path finetuning/data/14res/train \
-     --dev_dataset_path finetuning/data/14res/dev  \
-     --test_dataset_path finetuning/data/14res/test  \
-     --model_name_or_path models/contraste_model_after_12_epochs  \
-     --do_train   \
-     --do_eval \
-     --train_batch_size 4  \
-     --gradient_accumulation_steps 4  \
-     --eval_batch_size 16  \
-     --learning_rate 3e-4  \
-     --num_train_epochs 20  \
-     --regressor True  \
-     --use_tagger True \
-     --logger_name 14res_base_12.txt  \
-     --log_message 4_4_3e4_0.2 \
-     --gpu_id 0
-     
- ```
 
  ## Effect of Contrastive Pre-training
 
