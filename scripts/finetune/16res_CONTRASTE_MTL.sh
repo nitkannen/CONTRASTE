@@ -1,0 +1,22 @@
+python finetuning/main.py \
+       --task ASTE \
+       --dataset 16res  \
+       --train_dataset_path finetuning/data/16res/train \
+       --dev_dataset_path finetuning/data/16res/dev \
+       --test_dataset_path finetuning/data/16res/test \
+       --model_name_or_path models/contraste_model_after_12_epochs \
+       --do_train \
+       --do_eval  \
+       --max_seq_length 256 \
+       --alpha 0.8 \
+       --beta 0.8 \
+       --train_batch_size 4  \
+       --gradient_accumulation_steps 4  \
+       --eval_batch_size 16  \
+       --learning_rate 3e-4  \
+       --num_train_epochs 20  \
+       --regressor True  \
+       --use_tagger True  \
+       --logger_name 16res_MTL_12.txt  \
+       --log_message 4_4_3e4_0.2 \
+       --gpu_id 1
