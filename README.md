@@ -45,7 +45,7 @@ To fine-tune for 15res ASTE task with the ASTE-MTL model (without pre-training),
  
  ```
 sh scripts/finetune/14res_ASTE_MTL.sh
-sh scripts/finetune/15res_ASTE.sh
+sh scripts/finetune/15res_ASTE_MTL.sh
 sh scripts/finetune/16res_ASTE_MTL.sh
 sh scripts/finetune/lap14_ASTE_MTL.sh
  ```
