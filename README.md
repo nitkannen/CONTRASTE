@@ -69,7 +69,7 @@ To fine-tune the contrastive pre-trained model for the ASTE task, run:
 
   ```
 sh scripts/finetune/14res_CONTRASTE_MTL.sh
-sh scripts/finetune/15res_CONTRASTE.sh
+sh scripts/finetune/15res_CONTRASTE_MTL.sh
 sh scripts/finetune/16res_CONTRASTE_MTL.sh
 sh scripts/finetune/lap14_CONTRASTE_MTL.sh
  ```
